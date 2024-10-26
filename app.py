@@ -758,10 +758,6 @@ def shortest_articles():
         return jsonify({"error": f"An error occurred: {e}"}), 500
 
 
-@app.route('/shortestarticles')
-def shortestarticles():
-    return render_template('shortestarticles.html')
-
 
 @app.route('/articles_with_specific_keyword_count/<int:count>', methods=['GET'])
 def articles_with_specific_keyword_count(count):

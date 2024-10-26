@@ -2,9 +2,159 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Articles by Published Month</title>
+
+    <!-- Include amCharts libraries -->
+    <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
+    <script src="https://cdn.amcharts.com/lib/5/xy.js"></script>
+    <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Styles -->
+    <style>
+        #chartdiv {
+            width: 100%;
+            height: 500px;
+        }
+        .navbar {
+            background-color: #00CED1; /* Turquoise navbar */
+        }
+        .nav-link {
+            color: white !important; /* White text for nav links */
+        }
+        .nav-link.active {
+            background-color: transparent !important; /* No background for active link */
+        }
+        .btn-primary {
+            background-color: #00CED1; /* Turquoise button */
+            border: none; /* Remove border */
+        }
+        .btn-primary:hover {
+            background-color: #009B9A; /* Slightly darker turquoise on hover */
+        }
+    </style>
 </head>
 <body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">Charts Dashboard</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link" href="/wordcloud">Top Keywords</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/barchart">Top Authors</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/piechart">Top Languages</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/articlesbydate">Articles by Date</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/articlesbywordcount">Articles by Word Count</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/articlesbyclasses">Articles by Classes</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/articlesbykeyword">Articles by Keyword</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/longestarticles">Longest Articles</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/articlesbykeywordcount">Articles by Specific Keyword Count</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/articlesbypublishedmonth">Articles by Published Month</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        <h1 class="text-center">Articles by Published Month</h1>
+
+        <!-- Input fields for year and month -->
+        <div class="text-center mb-3">
+            <label for="yearInput" class="form-label">Enter Year:</label>
+            <input type="number" id="yearInput" class="form-control d-inline" style="width: 100px;" placeholder="e.g., 2024">
+            <label for="monthInput" class="form-label">Enter Month:</label>
+            <input type="number" id="monthInput" class="form-control d-inline" style="width: 100px;" placeholder="e.g., 1-12">
+            <button class="btn btn-primary mt-3" onclick="fetchAndDisplayChart()">Show Articles</button>
+        </div>
+
+        <div id="chartdiv"></div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Chart code -->
+    <script>
+        function fetchAndDisplayChart() {
+            const year = document.getElementById('yearInput').value;
+            const month = document.getElementById('monthInput').value;
+
+            if (!year || !month || month < 1 || month > 12) {
+                alert("Please enter a valid year and month (1-12).");
+                return;
+            }
+
+            fetch(`/articles_by_month/${year}/${month}`)
+                .then(response => response.json())
+                .then(data => {
+                    // Check if any articles were found
+                    const count = data.articles;
+                    if (count === 0) {
+                        alert(`No articles found for ${month}/${year}.`);
+                        return;
+                    }
+
+                    // Destroy the existing chart instance if it exists
+                    if (window.am5Root) {
+                        window.am5Root.dispose();
+                    }
+
+                    // Create root element
+                    const root = am5.Root.new("chartdiv");
+                    window.am5Root = root;  // Store root element in a global variable for reuse
+
+                    // Set themes
+                    root.setThemes([am5themes_Animated.new(root)]);
+
+                    // Create chart
+                    const chart = root.container.children.push(am5xy.XYChart.new(root, {
+                        panX: false,
+                        panY: false,
+                        wheelX: "none",
+                        wheelY: "none"
+                    }));
+
+                    // Create axes
+                    const yAxis = chart.yAxes.push(am5xy.ValueAxis.new(root, {
+                        renderer: am5xy.AxisRendererY.new(root, {})
+                    }));
+
+                    const xAxis = chart.xAxes.push(am5xy.CategoryAxis.new(root, {
+                        categoryField: "month",
+                        renderer: am5xy.AxisRendererX.new(root, {})
+                    }));
+
+                    // Add series
+                    const series = chart.series.push(am5xy.ColumnSeries.new(root, {
+                        name: "Articles",
+                        xAxis: xAxis,
+                        yAxis: yAxis,
+                        valueYField: "count",
+                        categoryXField: "month"
+                    }));
+
+                    // Prepare the chart data
+                    const chartData = [{ month: `${month}/${year}`, count: count }];
+
+                    series.data.setAll(chartData);
+
+                    // Make the chart animate on load
+                    series.appear(1000);
+                    chart.appear(1000, 100);
+                })
+                .catch(error => {
+                    console.error("Error fetching data:", error);
+                });
+        }
+    </script>
 
 </body>
 </html>
