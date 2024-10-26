@@ -1,0 +1,122 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div style="text-align: center; color: black">
+  <b> <h1>Top Authors</h1></b>
+</div>
+
+<!-- Styles -->
+<style>
+    #chartdiv {
+        width: 100%;
+        height: 500px;
+    }
+</style>
+
+<!-- Resources -->
+<script src="https://cdn.amcharts.com/lib/5/index.js"></script>
+<script src="https://cdn.amcharts.com/lib/5/xy.js"></script>
+<script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Chart code -->
+<script>
+// Fetch JSON data from the API
+$.getJSON("/authors", function (output) {
+    createChart(output);  // Pass the data to create the chart
+});
+
+function createChart(output) {
+    am5.ready(function() {
+
+        // Create root element
+        var root = am5.Root.new("chartdiv");
+
+        // Set themes
+        root.setThemes([am5themes_Animated.new(root)]);
+
+        var data = output;
+
+        // Create chart
+        var chart = root.container.children.push(
+            am5xy.XYChart.new(root, {
+                panX: false,
+                panY: false,
+                wheelX: "none",
+                wheelY: "none",
+                paddingBottom: 50,
+                paddingTop: 40
+            })
+        );
+
+        // Create axes
+        var xRenderer = am5xy.AxisRendererX.new(root, {});
+        xRenderer.grid.template.set("visible", false);
+
+        var xAxis = chart.xAxes.push(
+            am5xy.CategoryAxis.new(root, {
+                categoryField: "name",
+                renderer: xRenderer
+            })
+        );
+
+        var yRenderer = am5xy.AxisRendererY.new(root, {});
+        yRenderer.grid.template.set("strokeDasharray", [3]);
+
+        var yAxis = chart.yAxes.push(
+            am5xy.ValueAxis.new(root, {
+                min: 0,
+                renderer: yRenderer
+            })
+        );
+
+        // Add series
+        var series = chart.series.push(
+            am5xy.ColumnSeries.new(root, {
+                name: "Authors",
+                xAxis: xAxis,
+                yAxis: yAxis,
+                valueYField: "steps",
+                categoryXField: "name",
+                sequencedInterpolation: true,
+                calculateAggregates: true,
+                maskBullets: false,
+                tooltip: am5.Tooltip.new(root, {
+                    dy: -30,
+                    pointerOrientation: "vertical",
+                    labelText: "{valueY}"
+                })
+            })
+        );
+
+        series.columns.template.setAll({
+            strokeOpacity: 0,
+            cornerRadiusBR: 10,
+            cornerRadiusTR: 10,
+            cornerRadiusBL: 10,
+            cornerRadiusTL: 10,
+            maxWidth: 50,
+            fillOpacity: 0.8
+        });
+
+        series.data.setAll(data);
+        xAxis.data.setAll(data);
+
+        // Add cursor interaction
+        var cursor = chart.set("cursor", am5xy.XYCursor.new(root, {}));
+        cursor.lineX.set("visible", false);
+        cursor.lineY.set("visible", false);
+
+        // Make stuff animate on load
+        series.appear();
+        chart.appear(1000, 100);
+
+    }); // end am5.ready()
+}
+</script>
+
+<!-- HTML -->
+<div id="chartdiv"></div>
+
+{% endblock %}

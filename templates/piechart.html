@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div style="text-align: center;color: black">
+    <b>
+        <h1>Languages Used in Articles</h1>
+    </b>
+</div>
+
+<!-- Styles -->
+<style>
+    #chartdiv {
+        width: 100%;
+        height: 600px; /* Ensure chart is large enough */
+        margin: 0 auto; /* Center the chart */
+    }
+</style>
+
+<!-- Resources -->
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/export-data.js"></script>
+<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Chart code -->
+<script>
+    // Fetching data from the /languages API
+    $.getJSON("/languages", function (output) {
+        const processedData = [];
+        var othersCount = 0;
+
+        // Process the data: group languages with fewer tweets into "Others"
+        for (let i = 0; i < output.length; i++) {
+            if (output[i].sales > 1000) {  // Customize this threshold
+                processedData.push({
+                    name: output[i].country,
+                    y: output[i].sales
+                });
+            } else {
+                othersCount += output[i].sales;
+            }
+        }
+
+        // Add "Others" group to the processed data
+        if (othersCount > 0) {
+            processedData.push({
+                name: "Others",
+                y: othersCount
+            });
+        }
+
+        createChart(processedData);  // Call function to render the chart
+    });
+
+    // Function to create and render the pie chart using Highcharts
+    function createChart(data) {
+        Highcharts.chart('chartdiv', {
+            chart: {
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false,
+                type: 'pie'
+            },
+            title: {
+                text: 'Languages'
+            },
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            accessibility: {
+                point: {
+                    valueSuffix: '%'
+                }
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    dataLabels: {
+                        enabled: true,
+                        format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                        connectorColor: 'silver'
+                    }
+                }
+            },
+            series: [{
+                name: 'Languages',
+                colorByPoint: true,
+                data: data // Use the processed data for the chart
+            }]
+        });
+    }
+</script>
+
+<!-- HTML -->
+<div id="chartdiv"></div>
+
+{% endblock %}

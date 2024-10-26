@@ -1,0 +1,545 @@
+[
+    {
+        "type": "videoobject",
+        "postid": "1707321",
+        "title": "نشرة الحادية عشرة مساءً",
+        "url": "https://www.almayadeen.net/newscast/2023/5/30/نشرة-الحادية-عشرة-مساء",
+        "keywords": [
+            "الميادين",
+            "اخبار الميادين",
+            "كييف",
+            "الجبهة الشعبية لتحرير فلسطين",
+            "نشرة اخبار الميادين",
+            "نشرة الحادية عشرة مساءً",
+            "طوكيو",
+            "الأمن الغذائي",
+            "أحزاب المعارضة التركية",
+            "أسرى الجبهة الشعبية",
+            "الهجوم على موسكو",
+            "الاستخبارات العسكرية الأوكرانية",
+            "مقاومين في الضفة",
+            "مطالب الاسرى",
+            "إضراب الاسرى عن الطعام",
+            "صاروخ باليستي كوري شمالي",
+            "الصين ترفض لقاء أميركيا",
+            "تدمير مقر الاستخبارات العسكرية",
+            "تدمير صاروخ باليستي",
+            "بحر البايان"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/media/image/2023/5/30/70945f1b-b702-4344-a649-c3a10eed9ca5.jpg?width=1000",
+        "video_duration": "2884",
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2023-05-30T23:00:00+03:00",
+        "last_updated": "2023-05-31T00:25:27+03:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "نشرة الأخبار"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1707410",
+        "title": "صنعاء: وصول سفينة هولندية إلى اليمن لإنقاذ سفينة صافر وصيانتها",
+        "url": "https://www.almayadeen.net/news/politics/صنعاء:-وصول-سفينة-هولندية-لإنقاذ-وصيانة-سفينة-صافر-في-اليمن",
+        "keywords": [
+            "اليمن",
+            "الأمم المتحدة",
+            "البحر الأحمر",
+            "حسين العزي",
+            "خزان صافر النفطي",
+            "زيد الوشلي"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/media/image/2023/5/30/027661b3-2112-4487-bce8-6293c7661d8a.png?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "141",
+        "lang": "ar",
+        "published_time": "2023-05-31T00:00:00+03:00",
+        "last_updated": "2023-05-31T00:12:05+03:00",
+        "description": "سفينة \"أنديفور\" وفريق الصيانة الهولندي يصلان إلى اليمن لإنقاذ سفينة \"صافر\" وصيانتها، والأمم المتحدة تكشف أنّ عملية الإنقاذ ستتم خلال 4 مراحل.",
+        "author": "الميادين نت",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "أخبار"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "سياسة"
+            },
+            {
+                "key": "class3",
+                "mapping": "country",
+                "value": "اليمن"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "الميادين نت"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1707406",
+        "title": "مستوطنون يهاجمون منازل الفلسطينيين في جالود جنوبي نابلس",
+        "url": "https://www.almayadeen.net/news/politics/مستوطنون-يهاجمون-منازل-المواطنين-في-جالود-جنوب-نابلس",
+        "keywords": [
+            "فلسطين المحتلة",
+            "الاحتلال الإسرائيلي",
+            "نابلس",
+            "جالود"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/media/image/2023/5/30/3fc2a040-d6eb-487a-b15b-e8751971eead.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "103",
+        "lang": "ar",
+        "published_time": "2023-05-30T23:25:00+03:00",
+        "last_updated": "2023-05-31T00:02:04+03:00",
+        "description": "مستوطنون يهاجمون منازل الفلسطينيين في جالود جنوبي نابلس، الأمر الذي أدّى إلى اندلاع مواجهات في المنطقة.",
+        "author": "الميادين نت",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "أخبار"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "سياسة"
+            },
+            {
+                "key": "class3",
+                "mapping": "country",
+                "value": "فلسطين المحتلة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "الميادين نت"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1707322",
+        "title": "\"شهداء الأقصى\" تتبنّى عملية إطلاق النار قرب مستوطنة \"حرميش\"",
+        "url": "https://www.almayadeen.net/news/politics/كتيبة-طولكرم-تعلن-مسؤوليتها-عن-عملية-إطلاق-النار-قرب-مستوطنة",
+        "keywords": [
+            "الضفة الغربية",
+            "كتائب شهداء الأقصى",
+            "إطلاق نار",
+            "كتيبة طولكرم",
+            "حالة الاشتباك في الضفة",
+            "مدينة طولكرم",
+            "مستوطنة حرميش",
+            "كتيبة الرد السريع"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/media/image/2023/5/30/828c6c62-d740-461e-86aa-8a247a5a80b9.png?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "151",
+        "lang": "ar",
+        "published_time": "2023-05-30T18:07:00+03:00",
+        "last_updated": "2023-05-30T23:55:14+03:00",
+        "description": "مجموعة الرد السريع (كتيبة طولكرم) تؤكّد، في بيانٍ، مسؤوليتها عن عملية إطلاق النار التي استهدفت سيارة لمستوطنٍ عند طريق مستوطنة \"حرميش\"، وأدّت إلى قتله.",
+        "author": "الميادين نت",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "أخبار"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "سياسة"
+            },
+            {
+                "key": "class3",
+                "mapping": "country",
+                "value": "فلسطين المحتلة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "الميادين نت"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "videoobject",
+        "postid": "1707320",
+        "title": "المسائية | ملامح ازمة جديدة تعصف في اوروبا... وانتصار جديد للأسرى الفلسطينيين",
+        "url": "https://www.almayadeen.net/newscast/2023/5/30/المسائية-ملامح-ازمة-جديدة-تعصف-في-اوروبا-وانتصار-جديد-للأسرى",
+        "keywords": [
+            "المسائية",
+            "اخبار الميادين",
+            "الاسرى الفلسطينيون",
+            "المسائية الميادين",
+            "الجبهة الشعبية",
+            "الاسرى الفلسطينيون في سجون الإحتلال",
+            "أحمد سعدات",
+            "توتر",
+            "التوتر بين الكوريتين",
+            "قيادة",
+            "صربيا وكوسوفو",
+            "أسرى الجبهة الشعبية",
+            "إقليم كوسوفو",
+            "صراع عسكري",
+            "حدود كوسوفو",
+            "الإجراءات التعسفية بحق الفلسطينيين",
+            "وحدة أراضي صربيا",
+            "دعم صيني",
+            "صراع عسكري في أوروبا",
+            "قلب أوروبا",
+            "روسيا تدعم كوسوفو",
+            "نتصار جديد للأسرى",
+            "دعم صيني روسي",
+            "السجانين"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/media/image/2023/5/30/1ea797ca-4ef2-4413-9b73-78c250c02089.jpg?width=1000",
+        "video_duration": "2952",
+        "word_count": "208",
+        "lang": "ar",
+        "published_time": "2023-05-30T22:00:00+03:00",
+        "last_updated": "2023-05-30T23:48:23+03:00",
+        "description": "توتر على حدود إقليم كوسوفو ودعم صيني روسي لوحدة أراضي صربيا... من يريد إشعال صراع عسكري في قلب أوروبا؟ انتصار جديد للأسرى.. معتقلو الجبهة الشعبية بقيادة أحمد سعدات يرغمون السجانين على وقف إجراءاتهم التعسفية.\n",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "نشرة الأخبار"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1707361",
+        "title": "تفاصيل جديدة تُكشف بشأن حادثة مقتل ضابط إسرائيلي في إيطاليا.. ما هي؟",
+        "url": "https://www.almayadeen.net/news/politics/تفاصيل-جديدة-تكشف-بشأن-حادثة-مقتل-ضابط-إسرائيلي-في-إيطاليا-م",
+        "keywords": [
+            "الاحتلال الإسرائيلي",
+            "إيطاليا",
+            "الموساد الإسرائيلي",
+            "الاستخبارات الإسرائيلية"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/media/image/2023/5/30/81dc65ec-4d79-4005-a73c-10f6de54501a.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "147",
+        "lang": "ar",
+        "published_time": "2023-05-30T20:38:00+03:00",
+        "last_updated": "2023-05-30T23:43:26+03:00",
+        "description": "تفاصيل جديدة بشأن غرق قارب مخصَّص للسياحة في بحيرة في جزيرة ماجيوري الإيطالية، كان يُقِلّ ضباط استخبارات إسرائيليين وإيطاليين، وأودى بحياة 4 أشخاص.",
+        "author": "الميادين نت",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "أخبار"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "سياسة"
+            },
+            {
+                "key": "class3",
+                "mapping": "country",
+                "value": "فلسطين المحتلة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "الميادين نت"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1707393",
+        "title": "إيران وتركمانستان توقعان 5 مذكرات تعاون على رأسها مجال الطاقة",
+        "url": "https://www.almayadeen.net/news/economic/إيران-وتركمانستان-توقعان-5-مذكرات-تعاون-على-رأسها-مجال-الطاق",
+        "keywords": [
+            "إيران",
+            "إبراهيم رئيسي",
+            "الطاقة",
+            "تركمانستان",
+            "قربانقلي بردي محمدوف",
+            "بردي محمد اوف"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/media/image/2023/5/30/cd0c2481-44bd-4f1f-a2bd-6cddf3583b96.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "147",
+        "lang": "ar",
+        "published_time": "2023-05-30T23:39:00+03:00",
+        "last_updated": "2023-05-31T21:33:23+03:00",
+        "description": "إيران وتركمانستان توقعان 5 مذكرات تعاون في طهران بحضور الرئيس الإيراني إبراهيم رئيسي ورئيس مجلس تشخيص مصلحة الشعب التركماني قربان علي بردي محمداوف.",
+        "author": "الميادين نت",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "أخبار"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "اقتصاد"
+            },
+            {
+                "key": "class3",
+                "mapping": "country",
+                "value": "إيران"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "الميادين نت"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1707279",
+        "title": "انهيار صخري يهدد بدمار قرية شرق سويسرا",
+        "url": "https://www.almayadeen.net/video/انهيار-صخري-يهدد-بدمار-قرية-شرق-سويسرا",
+        "keywords": [
+            "الميادين GO",
+            "سويسرا",
+            "كوارث طبيعية",
+            "الانهيار",
+            "انهيار صخري",
+            "الصخور",
+            "حوادث طبيعية",
+            "شرق سويسرا",
+            "قرية شرق سويسرا",
+            "انزلاق الصخور",
+            "خطر انهيار صخري",
+            "الوادي",
+            "القرية"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/media/image/2023/5/30/699b3b5b-3fc5-4421-8c34-204d7613747d.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "59",
+        "lang": "ar",
+        "published_time": "2023-05-30T22:50:17+03:00",
+        "last_updated": "2023-05-30T22:50:19+03:00",
+        "description": "قرية سويسرية تواجه خطر الدمار والزوال جراء خطر انهيار صخري ",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "فيديو"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "الميادين Go"
+            },
+            {
+                "key": "class3",
+                "mapping": "country",
+                "value": "سويسرا"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1707397",
+        "title": "مسيرات تستهدف العاصمة الروسية تتسبب بإصابة مبانٍ عديدة",
+        "url": "https://www.almayadeen.net/tv-reports/مسيرات-تستهدف-العاصمة-الروسية-تتسبب-بإصابة-مبان-عديدة",
+        "keywords": [
+            "روسيا",
+            "أوكرانيا",
+            "الولايات المتحدة",
+            "موسكو",
+            "بوتين",
+            "كييف",
+            "الحرب في أوكرانيا",
+            "الجيش الروسي",
+            "روسيا وأوكرانيا",
+            "القوات الروسية",
+            "القوات الأوكرانية",
+            "الجيش الأوكراني",
+            "أزمة أوكرانيا",
+            "الحرب الأوكرانية",
+            "روسيا أوكرانيا",
+            "الحرب الروسية",
+            "قوات الناتو",
+            "الميادين روسيا",
+            "اخبار الميادين الرياضية",
+            "هجوم بمسيرات اوكرانية",
+            "هجوم المسيرات على موسكو",
+            "مسيرات تستهدف موسكو"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/media/image/2023/5/30/b827e18b-747a-4b51-a355-bcbb2ba10c76.jpg?width=1000",
+        "video_duration": "117",
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2023-05-30T22:18:20+03:00",
+        "last_updated": "2023-05-30T22:20:34+03:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "تقارير إخبارية"
+            },
+            {
+                "key": "class3",
+                "mapping": "country",
+                "value": "روسيا"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1707382",
+        "title": "شبح الركود يهدد اقتصاد ألمانيا",
+        "url": "https://www.almayadeen.net/news/economic/شبح-الركود-يهدد-اقتصاد-ألمانيا",
+        "keywords": [
+            "ألمانيا",
+            "التضخم",
+            "ركود اقتصادي",
+            "الاقتصاد الألماني",
+            "انكماش الاقتصاد الألماني"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/media/image/2023/5/30/89cc6009-3b6e-4a3b-ab13-3330426d1a83.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "135",
+        "lang": "ar",
+        "published_time": "2023-05-30T21:43:00+03:00",
+        "last_updated": "2023-05-31T13:25:23+03:00",
+        "description": "الاقتصاد الألماني يواجه تحديات غير مسبوقة تهدد بدخوله مرحلة ركود طويلة، وتنذر بتداعيات سلبية على العديد من القطاعات الصناعية والتجارية.",
+        "author": "الميادين نت",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "أخبار"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "اقتصاد"
+            },
+            {
+                "key": "class3",
+                "mapping": "country",
+                "value": "ألمانيا"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "الميادين نت"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1707383",
+        "title": "روسيا تُقلّص تمثيل فنلندا الدبلوماسي لديها",
+        "url": "https://www.almayadeen.net/news/politics/روسيا-تقلص-تمثيل-فنلندا-الدبلوماسي-لديها",
+        "keywords": [
+            "روسيا",
+            "روسيا",
+            "أوكرانيا",
+            "أوكرانيا",
+            "أميركا",
+            "الناتو",
+            "حلف الناتو",
+            "فنلندا",
+            "دونباس",
+            "مناورات عسكرية",
+            "مدينة لابينرانتا"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/media/image/2023/5/30/b7c2df10-ec8a-4476-8194-0a7fceda4e4b.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "125",
+        "lang": "ar",
+        "published_time": "2023-05-30T21:35:02+03:00",
+        "last_updated": "2023-05-30T21:35:02+03:00",
+        "description": "وزارة الخارجية الروسية تعلن أنّها ستغلق مكتب السفارة الروسية في مدينة لابينرانتا الفنلندية اعتباراً من 1 حزيران/يوليو المقبل.",
+        "author": "الميادين نت",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "أخبار"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "سياسة"
+            },
+            {
+                "key": "class3",
+                "mapping": "country",
+                "value": "روسيا"
+            },
+            {
+                "key": "class5",
+                "mapping": "coverage",
+                "value": "روسيا والأطلسي"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "الميادين نت"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    }
+]

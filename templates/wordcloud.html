@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+
+{% block content %}
+<!-- Highcharts Wordcloud -->
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/wordcloud.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/export-data.js"></script>
+<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<style>
+    .highcharts-figure,
+    .highcharts-data-table table {
+        min-width: 320px;
+        max-width: 800px;
+        margin: 1em auto;
+    }
+
+    .highcharts-data-table table {
+        font-family: Verdana, sans-serif;
+        border-collapse: collapse;
+        border: 1px solid #ebebeb;
+        margin: 10px auto;
+        text-align: center;
+        width: 100%;
+        max-width: 500px;
+    }
+
+    .highcharts-data-table caption {
+        padding: 1em 0;
+        font-size: 1.2em;
+        color: #555;
+    }
+
+    .highcharts-data-table th {
+        font-weight: 600;
+        padding: 0.5em;
+    }
+
+    .highcharts-data-table td,
+    .highcharts-data-table th,
+    .highcharts-data-table caption {
+        padding: 0.5em;
+    }
+
+    .highcharts-data-table thead tr,
+    .highcharts-data-table tr:nth-child(even) {
+        background: #f8f8f8;
+    }
+
+    .highcharts-data-table tr:hover {
+        background: #f1f7ff;
+    }
+</style>
+
+<!-- Word Cloud Container -->
+<figure class="highcharts-figure">
+    <div id="container"></div>
+
+</figure>
+
+<!-- Highcharts Word Cloud Script -->
+<script>
+    // Fetch the data from the API
+    $.getJSON("/keywords", function(output) {
+        createWordCloud(output);  // Call the function to create the word cloud
+        console.log(output);  // Debugging to ensure data is being fetched
+    });
+
+    // Function to generate the word cloud
+    function createWordCloud(data) {
+        Highcharts.chart('container', {
+            accessibility: {
+                screenReaderSection: {
+                    beforeChartFormat: '<h5>{chartTitle}</h5>' +
+                        '<div>{chartSubtitle}</div>' +
+                        '<div>{chartLongdesc}</div>' +
+                        '<div>{viewTableButton}</div>'
+                }
+            },
+            series: [{
+                type: 'wordcloud',
+                data: data,  // Pass the fetched data here
+                name: 'Occurrences'
+            }],
+            title: {
+                text: 'Top Keywords Wordcloud'
+            },
+            subtitle: {
+                text: 'Data from articles'
+            },
+            tooltip: {
+                headerFormat: '<span style="font-size: 16px"><b>{point.name}</b></span><br>',
+                pointFormat: 'Occurrences: {point.weight}'
+            }
+        });
+    }
+</script>
+{% endblock %}

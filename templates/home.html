@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<div class="text-center">
+    <h1 class="display-4">Welcome to the Charts Dashboard</h1>
+    <p class="lead">Select a section from the navbar to view charts.</p>
+    <a href="/wordcloud" class="btn btn-custom">View Top Keywords</a>
+    <a href="/barchart" class="btn btn-custom">View Top Authors</a>
+    <a href="/piechart" class="btn btn-custom">View Top Languages</a>
+</div>
+{% endblock %}
+
+{% block styles %}
+<style>
+    .btn-custom {
+        background-color: #00CED1; /* Turquoise color */
+        color: #ffffff; /* White text */
+        border: none;
+        margin: 5px;
+    }
+
+    .btn-custom:hover {
+        background-color: #00B2A9; /* Darker turquoise on hover */
+        color: #ffffff; /* Keep text color white on hover */
+    }
+</style>
+{% endblock %}
