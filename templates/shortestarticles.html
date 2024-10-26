@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shortest Articles</title>
+    <style>
+        #chartdiv {
+            width: 100%;
+            height: 500px;
+        }
+    </style>
+    <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
+    <script src="https://cdn.amcharts.com/lib/5/xy.js"></script>
+    <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
+</head>
+<body>
+    <h1>Shortest Articles</h1>
+    <div id="chartdiv"></div>
+
+    <script>
+    am5.ready(function() {
+        var root = am5.Root.new("chartdiv");
+        root.setThemes([am5themes_Animated.new(root)]);
+
+        var chart = root.container.children.push(am5xy.XYChart.new(root, {}));
+
+        // Create axes
+        var xAxis = chart.xAxes.push(am5xy.CategoryAxis.new(root, {
+            categoryField: "title",
+            renderer: am5xy.AxisRendererX.new(root, {})
+        }));
+
+        var yAxis = chart.yAxes.push(am5xy.ValueAxis.new(root, {
+            renderer: am5xy.AxisRendererY.new(root, {})
+        }));
+
+        // Create series
+        var series = chart.series.push(am5xy.ColumnSeries.new(root, {
+            xAxis: xAxis,
+            yAxis: yAxis,
+            valueYField: "word_count",
+            categoryXField: "title"
+        }));
+
+        // Fetch data from the API
+        fetch('/shortest_articles')
+            .then(response => response.json())
+            .then(data => {
+                // Set data for the chart
+                xAxis.data.setAll(data);
+                series.data.setAll(data);
+            })
+            .catch(error => console.error("Error loading data:", error));
+
+        chart.appear(1000, 100);
+    });
+    </script>
+  <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">Charts Dashboard</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/wordcloud">Top Keywords</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/barchart">Top Authors</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/piechart">Top Languages</a>
+                    </li>
+                     <li class="nav-item">
+                        <a class="nav-link" href="/articlesbydate">Articles by Date</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/articlesbywordcount">Articles by Word Count </a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link" href="/articlesbyclasses">Articles by Classes</a> <!-- New button for the stacked chart -->
+                    </li>
+                       <li class="nav-item">
+                    <a class="nav-link" href="/articlesbykeyword">Articles by Keyword</a> <!-- New button for the stacked chart -->
+                    </li>
+                     <li class="nav-item">
+                    <a class="nav-link" href="/longestarticles">Longest Articles</a> <!-- New button for the stacked chart -->
+                    </li>
+                      <li class="nav-item">
+                    <a class="nav-link" href="/shortestarticles">Shortest Articles</a> <!-- New button for the stacked chart -->
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
