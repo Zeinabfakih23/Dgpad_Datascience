@@ -1,0 +1,372 @@
+[
+    {
+        "type": "article",
+        "postid": "890229",
+        "title": "عبد الله بدران",
+        "url": "https://www.almayadeen.net/authors/890229/عبد-الله-بدران",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/7/6/da66065c-6f42-43f7-a9dd-c4fc95211847.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "28",
+        "lang": "ar",
+        "published_time": "2018-07-06T15:06:00+03:00",
+        "last_updated": "2020-06-20T10:11:41+03:00",
+        "description": "مدير مكتب الميادين في العراق",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "الكتّاب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "890667",
+        "title": "ملحم ريا",
+        "url": "https://www.almayadeen.net/authors/890667/ملحم-ريا",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/7/9/7aee3e30-deb5-4e10-b223-e4562ab4dd9c.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "21",
+        "lang": "ar",
+        "published_time": "2018-07-09T12:59:00+03:00",
+        "last_updated": "2021-02-06T23:40:13+02:00",
+        "description": "صحفي في قناة الميادين",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "الكتّاب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "892649",
+        "title": "الثابت والمُتغيّر في جمهورية أردوغان الجديدة",
+        "url": "https://www.almayadeen.net/butterfly-effect/892649/الثابت-والمتغير-في-جمهورية-أردوغان-الجديدة",
+        "keywords": [
+            "إيران",
+            "تركيا",
+            "رجب طيب إردوغان",
+            "إٍسرائيل"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/7/19/5c762b65-c7da-4e50-8fe5-28a4a11b4c43.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "223",
+        "lang": "ar",
+        "published_time": "2018-07-19T00:00:00+03:00",
+        "last_updated": "2019-12-23T11:49:32+02:00",
+        "description": "بنظام دستوري رئاسي تحظى فيه مؤسسة الرئاسة بالهيمنة على عملية صناعة القرار السياسي، وفي وسط التجاذبات الإقتصادية بين الصين والولايات المتحدة وروسيا، يبدو أن الدور التركي الإقليمي التنافسي مع إيران وإسرائيل سيزداد في المنطقة.",
+        "author": "أحمد فال السباعي",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "متابعات"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "سياسة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "أحمد فال السباعي"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "889372",
+        "title": "الاستخبارات الأميركية: كوريا الشمالية تواصل تخصيب اليورانيوم",
+        "url": "https://www.almayadeen.net/press/foreignpress/889372/الاستخبارات-الأميركية--كوريا-الشمالية-تواصل-تخصيب-اليورانيوم",
+        "keywords": [
+            "كوريا الشمالية",
+            "الاستخبارات الأميركية",
+            "تخصيب اليورانيوم",
+            "نزع السلاح النووي",
+            "مدير الاستخبارات الأميركية مايك بومبيو",
+            "قمة كيم ترامب"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/7/2/ea396231-1500-489f-a9b9-49f427895743.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "304",
+        "lang": "ar",
+        "published_time": "2018-07-02T10:22:00+03:00",
+        "last_updated": "2019-04-27T22:42:39+03:00",
+        "description": "يشير استمرار إنتاج الوقود النووي أن الشمال سيتبع نمطه التقليدي بالمماطلة في محادثات مفتوحة الأجل لأطول فترة ممكنة وكسب تنازلات أميركية جديدة في كل خطوة ",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "889607",
+        "title": "هل تستخدم إدارة ترامب \"مجاهدي خلق\" ضد إيران؟",
+        "url": "https://www.almayadeen.net/press/foreignpress/889607/هل-تستخدم-إدارة-ترامب--مجاهدي-خلق--ضد-إيران-",
+        "keywords": [
+            "جون بولتون",
+            "الجمهورية الإسلامية الإيرانية",
+            "الثورة الإسلامية في إيران",
+            "مجاهدي خلق",
+            "رودي جولياني"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/7/3/ec1e1fd4-fc7b-4e27-a29c-9a25c035c04f.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "348",
+        "lang": "ar",
+        "published_time": "2018-07-03T11:24:00+03:00",
+        "last_updated": "2019-04-27T22:42:09+03:00",
+        "description": "تم إدراج جماعة مجاهدي خلق كمجموعة إرهابية في الولايات المتحدة حتى عام 2012. لكن معارضتها لطهران قد جذبت دعم جون بولتون ورودي جولياني وآخرين عازمين على تغيير النظام في إيران.\n",
+        "author": "سعيد كمالي دهغان",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "سعيد كمالي دهغان"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "889801",
+        "title": "كيف تُدرَس أيديولوجيا ماو تسي تونغ في الجامعات الصينية",
+        "url": "https://www.almayadeen.net/press/foreignpress/889801/كيف-تدرس-أيديولوجيا-ماو-تسي-تونغ-في-الجامعات-الصينية",
+        "keywords": [
+            "شي جين بينغ",
+            "ماو تسي تونغ"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/7/4/748cc6d4-592b-4a76-9b63-2965270b8676.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "288",
+        "lang": "ar",
+        "published_time": "2018-07-04T11:42:00+03:00",
+        "last_updated": "2019-04-27T22:41:38+03:00",
+        "description": "الطلاب في الجامعة يكونون في الغالب أكثر انتقاداً وتحدياً وعالمية. وتتعارض فكرة المنهج القسري مع المثل العليا للحرية الأكاديمية التي يعجب الطلاب.",
+        "author": "خافييه هرنانديز",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "خافييه هرنانديز"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "890368",
+        "title": "مخاوف أوروبية من مفاجآت ترامب عشية قمة \"الناتو\"",
+        "url": "https://www.almayadeen.net/press/foreignpress/890368/مخاوف-أوروبية-من-مفاجآت-ترامب-عشية-قمة--الناتو-",
+        "keywords": [
+            "قمة حلف الناتو",
+            "قمة بوتين ترامب",
+            "قمة ترامب بوتين",
+            "قمة حلف الأطلسي",
+            "دبلوماسية ترامب"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/7/7/6b1f2a55-25bc-48e4-bfde-b4a1f637c444.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "360",
+        "lang": "ar",
+        "published_time": "2018-07-07T11:54:00+03:00",
+        "last_updated": "2019-04-27T22:41:07+03:00",
+        "description": "شكا مستشار الأمن القومي السابق هربرت مكماستر خلال فترة وجوده في البيت الأبيض، من أن الرئيس ترامب يعتقد أنه يمكن أن يكون صديقاً لبوتين وقال أنا لا أعرف لماذا يريد أن يكون صديقاً له.",
+        "author": "غريغ جافي - جوش داوسي - كارول دي ليونيغ",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "غريغ جافي - جوش داوسي - كارول دي ليونيغ"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "890496",
+        "title": "البذور السورية تنقذ القمح الأميركي",
+        "url": "https://www.almayadeen.net/press/foreignpress/890496/البذور-السورية-تنقذ-القمح-الأميركي",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/7/8/e18e8afd-a30f-401b-8a5b-1e952df6453e.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "176",
+        "lang": "ar",
+        "published_time": "2018-07-08T11:11:00+03:00",
+        "last_updated": "2019-04-27T22:40:24+03:00",
+        "description": "البذور السورية القديمة التي تم إنقاذها من حلب مقاومة للآفات التي تدمر المزارع الأميركية.",
+        "author": "مارك شابيرو",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "مارك شابيرو"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "890679",
+        "title": "هل يدمر ترامب حلف الناتو؟",
+        "url": "https://www.almayadeen.net/press/foreignpress/890679/هل-يدمر-ترامب-حلف-الناتو-",
+        "keywords": [
+            "حلف الناتو",
+            "حلف شمال الأطلسي",
+            "حلف الأطلسي",
+            "صحيفة نيويورك تايمز"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/7/9/69c7350b-cff5-49f5-8b3b-355aece85a48.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "206",
+        "lang": "ar",
+        "published_time": "2018-07-09T13:52:00+03:00",
+        "last_updated": "2019-04-27T22:39:55+03:00",
+        "description": "ينظر الحلفاء بخوف إلى قمة الناتو هذا الأسبوع مع استمرار الرئيس ترامب في حملته لتقويض شراكة عمرها عقود. ",
+        "author": "مجلس تحرير \"نيويورك تايمز\"",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "مجلس تحرير \"نيويورك تايمز\""
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "891224",
+        "title": "هل سترضخ ميركل لضغوط ترامب؟",
+        "url": "https://www.almayadeen.net/press/foreignpress/891224/هل-سترضخ-ميركل-لضغوط-ترامب-",
+        "keywords": [
+            "قمة حلف الناتو",
+            "قمة حلف الأطلسي"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/7/12/adba6e10-9440-4002-9112-4bc382dc084a.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "200",
+        "lang": "ar",
+        "published_time": "2018-07-12T11:12:00+03:00",
+        "last_updated": "2019-04-27T22:39:24+03:00",
+        "description": "انتقد الرئيس الأميركي دونالد ترامب ألمانيا وطالب حلفاء أميركا في حلف الأطلسي بزيادة إنفاقهم العسكري.",
+        "author": "ستيفن إيرلانغر - جولي هيرشفيلد ديفيس",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "ستيفن إيرلانغر - جولي هيرشفيلد ديفيس"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "891409",
+        "title": "\"الثوريون الجدد\".. الانتصار القادم لليسار في أميركا",
+        "url": "https://www.almayadeen.net/press/foreignpress/891409/-الثوريون-الجدد----الانتصار-القادم-لليسار-في-أميركا",
+        "keywords": [
+            "الحزب الديمقراطي الأميركي",
+            "بيرني ساندرز",
+            "صحيفة الغارديان البريطانية",
+            "اليسار في أميركا"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/7/13/050f6682-212c-4b07-8239-610ca55d3a4e.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "282",
+        "lang": "ar",
+        "published_time": "2018-07-13T11:53:00+03:00",
+        "last_updated": "2019-04-27T22:38:54+03:00",
+        "description": "من خلال فهمنا لكيفية حدوث الانقلاب الكبير في نيويورك، يمكننا أن نبدأ في فهم ما يمكن أن تحققه هذه الحركة من الدخلاء. وهي يمكن أن تغيّر العالم.",
+        "author": "جورج مونبيوت",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "جورج مونبيوت"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    }
+]

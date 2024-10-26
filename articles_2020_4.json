@@ -1,0 +1,337 @@
+[
+    {
+        "type": "article",
+        "postid": "1392777",
+        "title": "مهند عبيد",
+        "url": "https://www.almayadeen.net/authors/1392777/مهند-عبيد",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/4/19/7a45b909-c6d6-49b5-9b61-c8a25f62eb68.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "27",
+        "lang": "ar",
+        "published_time": "2020-04-19T19:51:00+03:00",
+        "last_updated": "2020-06-20T09:09:32+03:00",
+        "description": "منتج أخبار في قناة الميادين",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "الكتّاب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1393038",
+        "title": "أحمد أبو علي",
+        "url": "https://www.almayadeen.net/authors/1393038/أحمد-أبو-علي",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/4/21/5503c9cc-d9ab-49a1-a656-7815bbc71426.png?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "21",
+        "lang": "ar",
+        "published_time": "2020-04-21T13:42:00+03:00",
+        "last_updated": "2020-06-20T08:53:00+03:00",
+        "description": "مذيع في قناة الميادين",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "طاقم العمل"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1393027",
+        "title": "سليم عواضة",
+        "url": "https://www.almayadeen.net/authors/1393027/سليم-عواضة",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/4/21/b1eec0e2-7422-45c8-b9e4-979c8f127c19.png?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "45",
+        "lang": "ar",
+        "published_time": "2020-04-21T13:11:00+03:00",
+        "last_updated": "2020-06-20T08:52:00+03:00",
+        "description": "منتج أخبار ورئيس قسم الرياضة في قناة الميادين",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "طاقم العمل"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1393026",
+        "title": "محمد جرادي",
+        "url": "https://www.almayadeen.net/authors/1393026/محمد-جرادي",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/4/21/bf37fad4-21a0-4fc6-ba03-3dcd7f3600d8.png?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "22",
+        "lang": "ar",
+        "published_time": "2020-04-21T13:08:00+03:00",
+        "last_updated": "2020-06-20T08:50:00+03:00",
+        "description": "مذيع في قناة الميادين ",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "طاقم العمل"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1394600",
+        "title": "بلال عبود",
+        "url": "https://www.almayadeen.net/staff/1394600/بلال-عبود",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/4/29/887cc8a5-2178-4dc8-8983-b3aefed25b94.png?width=1000",
+        "video_duration": null,
+        "word_count": "202",
+        "lang": "ar",
+        "published_time": "2020-04-29T21:51:00+03:00",
+        "last_updated": "2021-06-22T17:39:07+03:00",
+        "description": "مدير قسم الإبداع والمحتوى البصري في الميادين أونلاين ومقدم فقرة ما القصة. عمل قبل ذلك منتج أخبار في قناة الميادين. بالإضافة الى عمله في محطات لبنانية وعربية وعالمية في أقسام متعددة، وكتب في صحف لبنانية.",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "الكتّاب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1393033",
+        "title": "أليسار كرم",
+        "url": "https://www.almayadeen.net/authors/1393033/أليسار-كرم",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/4/21/680ffd14-69af-4c3d-9c51-42bdb75eef1a.png?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "35",
+        "lang": "ar",
+        "published_time": "2020-04-21T13:36:00+03:00",
+        "last_updated": "2020-06-20T08:26:00+03:00",
+        "description": "مذيعة ومقدمة برامج في قناة الميادين",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "طاقم العمل"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1391162",
+        "title": "علي فواز",
+        "url": "https://www.almayadeen.net/authors/1391162/علي-فواز",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/4/10/d9780cce-d986-4b27-ba4f-89e2a060fddf.png?v=4&width=1000",
+        "video_duration": null,
+        "word_count": "22",
+        "lang": "ar",
+        "published_time": "2020-04-10T12:41:00+03:00",
+        "last_updated": "2020-06-19T16:27:31+03:00",
+        "description": "صحافي من أسرة الميادين",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "الكتّاب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1393377",
+        "title": "الصحية",
+        "url": "https://www.almayadeen.net/programs/1393377/الصحية",
+        "keywords": [
+            "الصحية"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/4/23/4c2236db-70a7-49e2-9611-e82bbb44832c.png?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2020-04-23T16:23:00+03:00",
+        "last_updated": "2022-02-04T18:20:48+02:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "برامج تلفزيون"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1394071",
+        "title": "حازم قاسم",
+        "url": "https://www.almayadeen.net/authors/1394071/حازم-قاسم",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/4/27/a59bdf93-c3ab-4785-963d-f18af6e127af.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "23",
+        "lang": "ar",
+        "published_time": "2020-04-27T13:38:00+03:00",
+        "last_updated": "2020-06-11T15:50:17+03:00",
+        "description": "الناطق باسم حركة \"حماس\"",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "الكتّاب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1389453",
+        "title": "سماء لم تعد آمنة.. ماذا يخفي الدفاع الجوي اليمني؟",
+        "url": "https://www.almayadeen.net/butterfly-effect/1389453/سماء-لم-تعد-آمنة---ماذا-يخفي-الدفاع-الجوي-اليمني",
+        "keywords": [
+            "اليمن",
+            "التحالف السعودي ضد اليمن",
+            "الجيش اليمني",
+            "حركة أنصار الله",
+            "منظومة ثاقب 1",
+            "المنظومة الصاروخية في اليمن"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/4/1/24942bee-8c4b-4b14-b2ca-35995bf447f1.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "153",
+        "lang": "ar",
+        "published_time": "2020-04-01T12:04:00+03:00",
+        "last_updated": "2020-05-07T00:02:14+03:00",
+        "description": "ينتظر أن يشهد الميدان اليمني مزيداً من المنظومات الجديدة التي تتجاوز الفوارق التكنولوجية الواسعة واختلال موازين القوى العسكرية، وقد تحقّق معجزات ميدانية.",
+        "author": "محمد منصور",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "متابعات"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "محمد منصور"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": null,
+        "postid": null,
+        "title": null,
+        "url": null,
+        "keywords": [
+            ""
+        ],
+        "thumbnail": null,
+        "video_duration": null,
+        "word_count": null,
+        "lang": null,
+        "published_time": null,
+        "last_updated": null,
+        "description": null,
+        "author": null,
+        "classes": [],
+        "html": "",
+        "lite_url": null
+    }
+]

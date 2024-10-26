@@ -1,0 +1,420 @@
+[
+    {
+        "type": "article",
+        "postid": "1384926",
+        "title": "بيسان طرّاف",
+        "url": "https://www.almayadeen.net/authors/1384926/بيسان-طراف",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/5/4/8f5b1e3c-b5de-4731-b764-50dbed8993e5.png?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "30",
+        "lang": "ar",
+        "published_time": "2020-03-09T20:17:00+02:00",
+        "last_updated": "2020-06-20T09:06:44+03:00",
+        "description": "محررة ومراسلة في قناة الميادين",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "الكتّاب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1389015",
+        "title": "مايا رزق",
+        "url": "https://www.almayadeen.net/staff/1389015/مايا-رزق",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/6/20/58a61a42-5226-4b92-9eff-71719e684fd4.png?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "35",
+        "lang": "ar",
+        "published_time": "2020-03-29T21:17:00+03:00",
+        "last_updated": "2020-06-20T08:15:00+03:00",
+        "description": "مذيعة ومقدمة برامج في قناة الميادين",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "طاقم العمل"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1389023",
+        "title": "محمد زيني",
+        "url": "https://www.almayadeen.net/staff/1389023/محمد-زيني",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/6/20/f4aceba4-ee3e-47c4-8965-e880b7fd35b1.png?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "38",
+        "lang": "ar",
+        "published_time": "2020-03-29T22:17:00+03:00",
+        "last_updated": "2020-06-20T08:12:15+03:00",
+        "description": "مذيع ومقدم برامج في قناة الميادين.\n\n\n\n",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "طاقم العمل"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1388936",
+        "title": "الاحتلال الإسرائيلي للأراضي الفلسطينية بالأرقام",
+        "url": "https://www.almayadeen.net/infograph/terrorism/1388936/الاحتلال-الإسرائيلي-للأراضي-الفلسطينية-بالأرقام",
+        "keywords": [
+            "فلسطين المحتلة",
+            "فلسطين المحتلة",
+            "الاحتلال الإسرائيلي",
+            "الضفة الغربية",
+            "القدس",
+            "القدس المحتلة",
+            "خلف الجدار",
+            "يوم الأرض",
+            "الأراضي الفلسطينية",
+            "التطبيع مع الاحتلال الإسرائيلي",
+            "في زمن القدس"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/3/29/4699cde4-a0d6-41fd-a4ec-a04faee2612c.png?v=4&width=1000",
+        "video_duration": null,
+        "word_count": "149",
+        "lang": "ar",
+        "published_time": "2020-03-30T09:55:00+03:00",
+        "last_updated": "2021-03-08T15:21:33+02:00",
+        "description": "تحتل \"إسرائيل\" الأرض الفلسطينية وتحاصر إنسانها، تمعن في استهلاك مواردها وتمنع أصحاب الأرض من الاستفادة منها، اطلعوا على الاحتلال الإسرائيلي بالأرقام.",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "إنفوغراف"
+            },
+            {
+                "key": "class5",
+                "mapping": "coverage",
+                "value": "زمن القدس"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1388108",
+        "title": "مايا رزق",
+        "url": "https://www.almayadeen.net/authors/1388108/مايا-رزق",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/5/4/c43f3113-9583-4739-b4fe-5dcfccb478e6.png?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "22",
+        "lang": "ar",
+        "published_time": "2020-03-25T12:09:00+02:00",
+        "last_updated": "2020-05-04T14:19:04+03:00",
+        "description": "مذيعة في قناة الميادين",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "الكتّاب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1386990",
+        "title": "كورونا والإرهاب.. لماذا لا نخرج أميركا من قفص الاتهام؟",
+        "url": "https://www.almayadeen.net/articles/opinion/1386990/كورونا-والإرهاب---لماذا-لا-نخرج-أميركا-من-قفص-الاتهام",
+        "keywords": [
+            "الصين",
+            "فيروس كورونا",
+            "ووهان",
+            "كورونا في اميركا",
+            "حرب بيولوجية",
+            "أحداث سبتمبر"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/3/19/8d29f73d-2dca-42c5-be5d-90095eb2760f.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "130",
+        "lang": "ar",
+        "published_time": "2020-03-19T18:31:00+02:00",
+        "last_updated": "2020-04-23T22:14:56+03:00",
+        "description": "تدرك الإدارة الأميركية أن الحماية الكاملة لحدودها من الإرهاب أو الفيروس لا تخدم المشروع الأميركي عالمياً بالسرعة والشكل المطلوبين.",
+        "author": "محمد فرج",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "تحليل"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "محمد فرج"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1388033",
+        "title": "أزمة كورونا.. هل تبدّل التوجّهات العالمية الليبرالية؟",
+        "url": "https://www.almayadeen.net/articles/opinion/1388033/أزمة-كورونا---هل-تبدل-التوجهات-العالمية-الليبرالية",
+        "keywords": [
+            "الولايات المتحدة الأميركية",
+            "دونالد ترامب",
+            "فيروس كورونا",
+            "الاتحاد الأوروبي",
+            "العالم يواجه كورونا",
+            "الاتحاد السوفياتي"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/3/24/770d7bf4-d5ac-4901-abaf-d0385742faa0.jpg?width=1000",
+        "video_duration": null,
+        "word_count": "176",
+        "lang": "ar",
+        "published_time": "2020-03-24T19:42:00+02:00",
+        "last_updated": "2020-04-23T22:14:37+03:00",
+        "description": "ستكون التطورات العالمية في مرحلة ما بعد أزمة كورونا مرتبطة بعوامل ثلاثة: التكنولوجيا، وسياسات الدول، والأسواق المعولمة، علماً أن كلاً من هذه العوامل يؤثر في الآخرين ويتأثر بهم.",
+        "author": "ليلى نقولا",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "مقالات"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "ليلى نقولا"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1388357",
+        "title": "كورونا يعقّد المشهد السياسي في \"إسرائيل\".. حرب أهلية؟",
+        "url": "https://www.almayadeen.net/articles/opinion/1388357/كورونا-يعقد-المشهد-السياسي-في--إسرائيل----حرب-أهلية",
+        "keywords": [
+            "الصين",
+            "كورونا",
+            "الاحتلال الاسرائيلي",
+            "العالم يواجه كورونا",
+            "وباء كورونا",
+            "ووهان",
+            "بينيامين نتنياهو",
+            "الالتهاب الرئوي",
+            "وزارة الصحة الاسرائيلية",
+            "سارس"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/3/26/23eb1f36-4c2c-4abd-b00d-b72eb21b59b5.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "158",
+        "lang": "ar",
+        "published_time": "2020-03-26T15:53:00+02:00",
+        "last_updated": "2020-04-23T22:13:59+03:00",
+        "description": "تذهب الأوساط الطبية إلى أن \"إسرائيل\" مقبلة على كارثة حقيقية قد تشلّ أركان \"الدولة\" كافة، في ظل رفض المتدينين اليهود الانصياع للتعليمات الصادرة عن وزارة الصحة.",
+        "author": "حمزة أبو شنب",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "مقالات"
+            },
+            {
+                "key": "class5",
+                "mapping": "coverage",
+                "value": "العالم يواجه كورونا"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "حمزة أبو شنب"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1388982",
+        "title": "ما بعد كورونا.. عالم التكنولوجيا المفروض بالقوّة",
+        "url": "https://www.almayadeen.net/articles/opinion/1388982/ما-بعد-كورونا---عالم-التكنولوجيا-المفروض-بالقوة",
+        "keywords": [
+            "الصين",
+            "كورونا",
+            "كورونا",
+            "الولايات المتحدة",
+            "الذكاء الاصطناعي",
+            "البنك الدولي",
+            "وباء كورونا",
+            "ووهان",
+            "الالتهاب الرئوي",
+            "سارس",
+            "التجارة الإلكترونية"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/3/29/1aaf04e8-bc02-429e-9c1e-df9595583d32.jpg?width=1000",
+        "video_duration": null,
+        "word_count": "64",
+        "lang": "ar",
+        "published_time": "2020-03-29T17:57:00+03:00",
+        "last_updated": "2020-04-23T22:13:18+03:00",
+        "description": "تستعدّ الشركات التكنولوجية لمنصب الكاهن الجديد في العالم المقبل!",
+        "author": "محمد فرج",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "تحليل"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "سياسة"
+            },
+            {
+                "key": "class5",
+                "mapping": "coverage",
+                "value": "العالم يواجه كورونا"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "محمد فرج"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1387958",
+        "title": "كيف نجحت الصين باحتواء فيروس كورونا؟",
+        "url": "https://www.almayadeen.net/videos/1387958/كيف-نجحت-الصين-باحتواء-فيروس-كورونا",
+        "keywords": [
+            "الصين",
+            "كورونا",
+            "مواجهة كورونا",
+            "covid19",
+            "كورونا ووهان"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/3/24/c3cdfe30-7512-4159-ba39-56b7ddee225e.jpg?v=4&width=1000",
+        "video_duration": "77",
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2020-03-24T14:20:00+02:00",
+        "last_updated": "2020-04-19T17:22:34+03:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "فيديو"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "سياسة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1389221",
+        "title": "تحية إلى إيطاليا",
+        "url": "https://www.almayadeen.net/videos/ومضات/1389221/تحية-إلى-إيطاليا",
+        "keywords": [
+            "الميادين",
+            "فيروس كورونا",
+            "ايطاليا",
+            "ومضات",
+            "تحية إلى إيطاليا"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/3/30/46b94290-b057-49a1-9327-792ae1068573.png?v=3&width=1000",
+        "video_duration": "86",
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2020-03-30T21:49:00+03:00",
+        "last_updated": "2020-04-17T18:23:00+03:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "فيديو"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "برنامج أونلاين "
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    }
+]

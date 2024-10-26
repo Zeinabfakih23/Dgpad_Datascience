@@ -1,0 +1,384 @@
+[
+    {
+        "type": "article",
+        "postid": "868144",
+        "title": "الانتخابية - العراق",
+        "url": "https://www.almayadeen.net/programs/868144/الانتخابية---العراق",
+        "keywords": [
+            "الانتخابية",
+            "الانتخابات البرلمانية العراقية",
+            "الانتخابية - العراق"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/4/1/b51a28d8-2197-4ec0-8ee2-7cf1d2ea0fbb.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2018-04-01T19:35:00+03:00",
+        "last_updated": "2021-07-16T14:34:56+03:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "برامج تلفزيون"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "برنامج شاشة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "870234",
+        "title": "الانتخابية - تونس",
+        "url": "https://www.almayadeen.net/programs/870234/الانتخابية---تونس",
+        "keywords": [
+            "الانتخابية",
+            "الانتخابات المحلية التونسية",
+            "الانتخابية - تونس"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/4/10/76fb40cd-c9d1-4ac6-aca8-719a5cb57d7e.jpg?width=1000",
+        "video_duration": null,
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2018-04-10T15:36:00+03:00",
+        "last_updated": "2021-07-16T14:35:31+03:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "برامج تلفزيون"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "برنامج شاشة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "869382",
+        "title": "على المحك",
+        "url": "https://www.almayadeen.net/programs/869382/على-المحك",
+        "keywords": [
+            "الانتخابية",
+            "الانتخابات البرلمانية اللبنانية",
+            "الانتخابية لبنان",
+            "على المحك"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/4/11/d0d2e879-c7ba-410c-b618-5e0c1759a261.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "230",
+        "lang": "ar",
+        "published_time": "2018-04-06T23:52:00+03:00",
+        "last_updated": "2021-07-16T14:35:11+03:00",
+        "description": "على المحك، برنامج معني بالانتخابات التشريعية اللبنانية، يناقش بعمق مع اصحاب الرأي الملفات والقضايا الخلافية بين الأطراف السياسية ويشخص الواقع كما هو ويسال عن المستقبل، الأزمات والحلول وأي لبنان نريد في ظل صراع المحاور على المنطقة؟",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "برامج تلفزيون"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "برنامج شاشة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "872976",
+        "title": "\"معركة سانتياغو\" الأسوأ في تاريخ المونديال!",
+        "url": "https://www.almayadeen.net/misc/872976/-معركة-سانتياغو--الأسوأ-في-تاريخ-المونديال-",
+        "keywords": [
+            "مونديال روسيا 2018",
+            "من ذاكرة المونديال"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/4/20/c10a9398-25f3-4a05-87db-d9eb1e0688c8.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "158",
+        "lang": "ar",
+        "published_time": "2018-04-20T11:17:00+03:00",
+        "last_updated": "2019-11-29T10:24:55+02:00",
+        "description": "وُصفت مباراة تشيلي وإيطاليا في دور المجموعات في بطولة كأس العالم 1962 التي استضافتها تشيلي وأحرزت لقبها البرازيل بـ\"معركة سانتياغو\"... فماذا حصل في ذلك اليوم؟",
+        "author": "الميادين نت",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "رياضة"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "رياضة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "الميادين نت"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "871526",
+        "title": "ميلود لقاح",
+        "url": "https://www.almayadeen.net/authors/871526/ميلود-لقاح",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2019/7/26/c90cb91e-4325-45f7-9a88-dbe92f9fa625.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "14",
+        "lang": "ar",
+        "published_time": "2018-04-14T13:29:00+03:00",
+        "last_updated": "2019-07-26T18:04:29+03:00",
+        "description": "شاعر من المغرب",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "الكتّاب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "873865",
+        "title": "في تاريخ الكتاب",
+        "url": "https://www.almayadeen.net/investigation/873865/في-تاريخ-الكتاب",
+        "keywords": [
+            "منظمة اليونسكو",
+            "بلاد الرافدين"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/4/24/ed6cf31e-55e6-429a-8eb9-29c758ba41eb.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "143",
+        "lang": "ar",
+        "published_time": "2018-04-24T15:21:00+03:00",
+        "last_updated": "2023-06-08T13:59:00+03:00",
+        "description": "السومريون هم أول من خصّوا الكتاب بدور الحافظ للإنجازات الإنسانية الحضارية والثقافية والتقنية، فضلاً عن خدمته للأهداف الرسمية والتعليمية وغيرها.",
+        "author": "الميادين نت",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "ثقافة وفنون"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "الميادين نت"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "867799",
+        "title": "\"بريكسيت\" فرصة ذهبية لاستعادة قوتنا في التجارة الدولية",
+        "url": "https://www.almayadeen.net/press/foreignpress/867799/-بريكسيت--فرصة-ذهبية-لاستعادة-قوتنا-في-التجارة-الدولية",
+        "keywords": [
+            "الاتحاد الأوروبي",
+            "صحيفة الاندبندنت البريطانية",
+            "الخروج من الاتحاد الأوروبي",
+            "الخروج البريطاني"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/3/30/945d244e-ac4e-4ed8-9d93-893017aa17bb.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "411",
+        "lang": "ar",
+        "published_time": "2018-04-02T11:17:00+03:00",
+        "last_updated": "2019-04-28T00:07:18+03:00",
+        "description": "بعد خروج بريطانيا من الاتحاد الأوروبي، سنبحث عن وضع أنفسنا في طليعة هذا العصر التكنولوجي الجديد بعد وضع شروط سياستنا التجارية المستقلة.  ",
+        "author": "ليام فوكس",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "ليام فوكس"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "867991",
+        "title": "للكونغرس، وليس لترامب، سلطة الحرب",
+        "url": "https://www.almayadeen.net/press/foreignpress/867991/للكونغرس--وليس-لترامب--سلطة-الحرب",
+        "keywords": [
+            "مجلس الشيوخ الأميركي",
+            "حرب اليمن",
+            "بيرني ساندرز"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/3/31/251dd71e-8cd6-4cb0-92f9-a443b41f10a9.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "160",
+        "lang": "ar",
+        "published_time": "2018-04-01T07:55:00+03:00",
+        "last_updated": "2019-04-28T00:04:20+03:00",
+        "description": "يمكن لممثلي أميركا، ويجب عليهم، إنهاء مشاركة بلادهم في الهجوم المروّع على اليمن.",
+        "author": "بيرني ساندرز",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "بيرني ساندرز"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "868719",
+        "title": "تطبيع عربي- إسرائيلي مستجد",
+        "url": "https://www.almayadeen.net/press/foreignpress/868719/تطبيع-عربي--إسرائيلي-مستجد",
+        "keywords": [
+            "تطبيع العلاقات السعودية مع إسرائيل",
+            "تطبيع العلاقات الخليجية – الإسرائيلية"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/4/4/21851da7-0458-432e-a8e6-7e289c8ef0b4.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "268",
+        "lang": "ar",
+        "published_time": "2018-04-07T12:42:00+03:00",
+        "last_updated": "2019-04-28T00:03:51+03:00",
+        "description": "ثمة استعداد لتطبيع تاريخي للعلاقات بين إسرائيل والعديد من الدول العربية الرئيسية.وقد لا يمر وقت طويل حتى نرى سفارة سعودية في إسرائيل.\n",
+        "author": "جيمس س. روبنز",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "جيمس س. روبنز"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "868408",
+        "title": "طهران ستنتصر إذا انسحب ترامب من الصفقة النووية",
+        "url": "https://www.almayadeen.net/press/foreignpress/868408/طهران-ستنتصر-إذا-انسحب-ترامب-من-الصفقة-النووية",
+        "keywords": [
+            "الاتفاق النووي الايراني",
+            "واشنطن بوست",
+            "دنيس روس",
+            "الصفقة النووية"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/4/3/af20f961-794c-4af4-acfb-62e74eabec4a.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "346",
+        "lang": "ar",
+        "published_time": "2018-04-03T09:51:00+03:00",
+        "last_updated": "2019-04-28T00:02:14+03:00",
+        "description": "احتواء انتشار الإيرانيين ووكلائهم واحتواء تطور قدراتهم العسكرية في سوريا يجب أن يكون النقطة المركزية لإدارة ترامب. يجب أن تكون أولويتنا لتقليص التهديد الإيراني الحقيقي هناك.",
+        "author": "دنيس روس",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "دنيس روس"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "868459",
+        "title": "آل كوشنير يحصدون سراب صلتهم بالبيت الأبيض",
+        "url": "https://www.almayadeen.net/press/foreignpress/868459/آل-كوشنير-يحصدون-سراب-صلتهم-بالبيت-الأبيض",
+        "keywords": [
+            "البيت الأبيض",
+            "جاريد كوشنير",
+            "إيفانكا ترامب",
+            "آل كوشنير"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/4/4/336d8af3-0829-4bff-99fa-ff03ebea3ecd.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "348",
+        "lang": "ar",
+        "published_time": "2018-04-04T08:49:00+03:00",
+        "last_updated": "2019-04-28T00:01:24+03:00",
+        "description": "أصبحت إمبراطورية آل كوشنير العقارية تحت المجهر الوطني، ويتم التدقيق في كل صفقة للتأكد من خلو أي استغلال للنفوذ فيها.",
+        "author": "شارون لافيرانير وكاتي بنرابريل",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شارون لافيرانير وكاتي بنرابريل"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    }
+]

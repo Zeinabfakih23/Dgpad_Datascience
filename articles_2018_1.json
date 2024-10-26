@@ -1,0 +1,377 @@
+[
+    {
+        "type": "article",
+        "postid": "851902",
+        "title": "زاهر العريضي",
+        "url": "https://www.almayadeen.net/authors/851902/زاهر-العريضي",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/1/10/0e901f4d-8747-4375-ac35-b99c929ca3c8.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "26",
+        "lang": "ar",
+        "published_time": "2018-01-10T15:41:00+02:00",
+        "last_updated": "2020-06-20T10:15:00+03:00",
+        "description": "منتج منفذ في قناة الميادين",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "طاقم العمل"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "853900",
+        "title": "عن تنظيم التنوع الثقافي والعرقي في الأنظمة الليبرالية",
+        "url": "https://www.almayadeen.net/books/853900/عن-تنظيم-التنوع-الثقافي-والعرقي-في-الأنظمة-الليبرالية",
+        "keywords": [
+            "التنوع الثقافي",
+            "الأنظمة الليبرالية"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/1/19/62475859-ee05-4bc3-878d-05ff51fadaa2.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "178",
+        "lang": "ar",
+        "published_time": "2018-01-19T17:00:00+02:00",
+        "last_updated": "2023-06-08T13:18:12+03:00",
+        "description": "ما السبيل إلى إيجاد أنموذج للاندماج السياسي يضمن تمثيلاً عادلاً للتنوع العرقي والثقافي داخل دولة أو أمة على قاعدة التقارب والشراكة وليس ذوبان الفوارق الثقافية والعرقية والدينية؟ ",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "ثقافة وفنون"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": null,
+        "postid": null,
+        "title": null,
+        "url": null,
+        "keywords": [
+            ""
+        ],
+        "thumbnail": null,
+        "video_duration": null,
+        "word_count": null,
+        "lang": null,
+        "published_time": null,
+        "last_updated": null,
+        "description": null,
+        "author": null,
+        "classes": [],
+        "html": "",
+        "lite_url": null
+    },
+    {
+        "type": "article",
+        "postid": "849146",
+        "title": "عصام العبدالله ... كرّم الوطن بأدبه ومشى، فأين واجب القيّمين؟",
+        "url": "https://www.almayadeen.net/essays/849146/عصام-العبدالله-----كرم-الوطن-بأدبه-ومشى--فأين-واجب-القيمين",
+        "keywords": [
+            "لبنان",
+            "الميادين الثقافية",
+            "بيروت",
+            "شعر",
+            "عصام العبد الله"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/1/2/c4804c14-e9ce-4b3b-8a03-d3a99d441758.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "232",
+        "lang": "ar",
+        "published_time": "2018-01-02T09:08:00+02:00",
+        "last_updated": "2022-06-02T13:32:03+03:00",
+        "description": "أذكر حين كان يدخل إلى معارضي منتصب القامة وبتواضع الأب، وأبتسم حين يُطلق عليّ أحدهم أيّة صفة بقصد التغزّل، فيردّ عليه: إنّها فنّانة لها لقب. ليس من عادتي أن أدخل الشّخصي في مقالاتي، لكنني اكتشفت أن الشّاعر الذي تركنا، كم كان قريباً.",
+        "author": "سهى صباغ",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "ثقافة وفنون"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "سهى صباغ"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "849433",
+        "title": "الجيوش العربية تعدّ العدة لاستعادة فلسطين",
+        "url": "https://www.almayadeen.net/essays/849433/الجيوش-العربية-تعد-العدة-لاستعادة-فلسطين",
+        "keywords": [
+            "فلسطين",
+            "إسرائيل",
+            "الميادين الثقافية",
+            "دونالد ترامب",
+            "الولايات المتحدة",
+            "الأمم المتحدة",
+            "القدس عاصمة فلسطين",
+            "القدس عاصمتنا إلى الأبد",
+            "الدول العربية",
+            "قصة قصيرة"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/1/3/8e931f1d-aa6d-407f-9918-35f7c4b3566a.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "258",
+        "lang": "ar",
+        "published_time": "2018-01-03T13:30:00+02:00",
+        "last_updated": "2022-06-02T11:15:57+03:00",
+        "description": "إستقبل المسلمون خبر إعلان القدس العربية عاصمة لإسرائيل بصدمة شديدة للغاية. على الفور ومن دون مقدمات جهزوا الجيوش واستدعوا جنود الاحتياط، وأعدوا العدة لاجتياح الولايات المتحدة وإسرائيل في يوم ونصف، بحسب الخطة التي وضعوها. كيف لا والقدس انتهكت ونهبت من أيدينا.",
+        "author": "مصطفى خداد",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "ثقافة وفنون"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "مصطفى خداد"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "849769",
+        "title": "نجمات شابّات الى الأبد؟ تعرفوا إليهن",
+        "url": "https://www.almayadeen.net/investigation/849769/نجمات-شابات-الى-الأبد--تعرفوا-إليهن",
+        "keywords": [
+            "الميادين الثقافية",
+            "هوليوود",
+            "سينما",
+            "فن",
+            "جوليا روبرتس",
+            "جوليان مور"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/1/4/9a9ebdb4-2f4e-406d-b254-1e4910a86182.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "186",
+        "lang": "ar",
+        "published_time": "2018-01-04T13:44:00+02:00",
+        "last_updated": "2022-06-02T11:20:06+03:00",
+        "description": "الصوَر التي سترونها الآن التقطت مؤخراً لعدد من نجمات السينما. سيقول البعض منكم إن هذه الصور قد التقطت منذ أكثر من عقد من الزمن، لكن هذا ليس صحيحاً، ذلك أن هناك نجمات يبدو أنهن لا يكبرن. ",
+        "author": "نانسي محسن",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "ثقافة وفنون"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "نانسي محسن"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "849955",
+        "title": "صلاح عيسى ... المريض بحبه لمصر رحل شيخاً للمؤرّخين",
+        "url": "https://www.almayadeen.net/investigation/849955/صلاح-عيسى-----المريض-بحبه-لمصر-رحل-شيخا-للمؤرخين",
+        "keywords": [
+            "الميادين الثقافية",
+            "مصر",
+            "صلاح عيسى"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/1/5/be44d3a9-d372-4e97-b6cc-2eb87d87026f.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "406",
+        "lang": "ar",
+        "published_time": "2018-01-05T13:17:00+02:00",
+        "last_updated": "2018-09-29T18:22:36+03:00",
+        "description": "وكان صلاح عيسى بشرعيّته النضالية – خمسة اعتقالات- نجم الساحة يومذاك، فهو يمتلك كل شروط الكاتب التي طالما تدرَّب عليها ومارسها في السجن، فأنتجت أسفاراً تُعتبر مرجعاً أساسياً لكل المُتخصّصين في تاريخ مصر. ",
+        "author": "محمد علي فقيه",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "ثقافة وفنون"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "ثقافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "محمد علي فقيه"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "849978",
+        "title": "حوار مع صديقي الإرهابي",
+        "url": "https://www.almayadeen.net/investigation/849978/حوار-مع-صديقي-الإرهابي",
+        "keywords": [
+            "سوريا",
+            "لبنان",
+            "اليمن",
+            "العراق",
+            "إسرائيل",
+            "الميادين الثقافية",
+            "داعش",
+            "فضاءات"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/1/6/c3914350-5436-47c2-ba8c-e4dec78b62c4.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "236",
+        "lang": "ar",
+        "published_time": "2018-01-06T15:34:00+02:00",
+        "last_updated": "2022-06-02T10:07:08+03:00",
+        "description": "لقد فتحنا بحمد الله، أرض العراق ومن الشام أقصاه وأدناهْ، فإذا دخلنا قرية أفسدناها، وذبحنا أهلها وأحرقناها، وجعلنا أعزة أهلها أذلّة، وسبينا نساءهم كثرة كنّ أو قلّة، وأكثرنا في الأرض الفسادْ، وطغينا في البلادْ، وصببنا على أهلها سوط عذابْ.",
+        "author": "محمد حسام الدين العوادي",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "ثقافة وفنون"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "محمد حسام الدين العوادي"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "849987",
+        "title": "عندما نأى الحارث بن عباد بنفسه",
+        "url": "https://www.almayadeen.net/investigation/849987/عندما-نأى-الحارث-بن-عباد-بنفسه",
+        "keywords": [
+            "الميادين الثقافية"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/1/5/e0d60348-fc07-45c1-aa16-71c3d158305f.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "47",
+        "lang": "ar",
+        "published_time": "2018-01-08T16:22:00+02:00",
+        "last_updated": "2022-06-01T14:48:30+03:00",
+        "description": "سائلوا عنا الذي يعرفنا، بقوانا يوم تحلاق اللمم.",
+        "author": "هواش نصر الصالح",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "ثقافة وفنون"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "هواش نصر الصالح"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "850272",
+        "title": "ميكيس ثيودوراكيس: قائد أوركسترا و.. مقاومة",
+        "url": "https://www.almayadeen.net/investigation/850272/ميكيس-ثيودوراكيس--قائد-أوركسترا-و---مقاومة",
+        "keywords": [
+            "الولايات المتحدة الأميركية",
+            "فلسطين",
+            "إسرائيل",
+            "الميادين الثقافية",
+            "مصر",
+            "موسيقى",
+            "جورج بوش",
+            "هتلر"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/1/7/c62ff4eb-ab56-4575-8946-b0168dc21804.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "383",
+        "lang": "ar",
+        "published_time": "2018-01-07T12:26:00+02:00",
+        "last_updated": "2022-06-02T13:31:52+03:00",
+        "description": "أدر الأذن الصمّاء عن ضجيج العالم، واسمع الموسيقى الآتية من هناك، من بلاد الإغريق التي أعطت الفلسفة والحكمة والأساطير القديمة. هناك على أحد الشواطئ اليونانيّة، يرقص أنطوني كوين رقصته الشّهيرة في فيلم زوربا، المأخوذ عن رواية \"زوربا\" للكاتب نيكوس كازانتزاكيس وإخراج مايكل كوكيانس، وعلى إيقاع موسيقى ميكيس ثيودوراكيس الذي رحل الأربعاء 3 كانون الثاني/يناير 2018 وله فيلم آخر هو \"سيربيكو\".",
+        "author": "سهى صباغ",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "ثقافة وفنون"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "سهى صباغ"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "850684",
+        "title": "هناك بيتي",
+        "url": "https://www.almayadeen.net/investigation/850684/هناك-بيتي",
+        "keywords": [
+            "فلسطين",
+            "إسرائيل",
+            "الولايات المتحدة",
+            "القدس المحتلة",
+            "القدس عاصمة فلسطين",
+            "القدس عاصمتنا إلى الأبد"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/1/9/89d34adf-66e0-41e3-be57-79fbed7fddb1.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "257",
+        "lang": "ar",
+        "published_time": "2018-01-09T13:56:00+02:00",
+        "last_updated": "2022-06-02T10:23:21+03:00",
+        "description": "كلما ذهبت إلى القدس تقف على بعد أمتار من منزل عائلتها وتنظر إليه بحسرة. تشعر وكأن شريط ذكريات حياتها يمر أمامها. كما لو أنه كان البارحة. تودّ لو تصرخ للمارة وتقول \"ذلك هو بيتي، بيت أهلي الذي سُلِبَ منا\". تريد العبور من عتبته والتنقل بين غرفه مستذكرة الماضي.",
+        "author": "رنا كواليت",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "ثقافة وفنون"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "رنا كواليت"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    }
+]

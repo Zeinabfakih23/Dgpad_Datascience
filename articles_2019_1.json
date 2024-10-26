@@ -1,0 +1,427 @@
+[
+    {
+        "type": "article",
+        "postid": "926978",
+        "title": "محمد زيني",
+        "url": "https://www.almayadeen.net/authors/926978/محمد-سلام",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/4/21/378c636d-78b4-459e-930a-0435739ed9ea.png?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "34",
+        "lang": "ar",
+        "published_time": "2019-01-08T11:29:00+02:00",
+        "last_updated": "2020-06-20T09:22:21+03:00",
+        "description": "مذيع ومقدم برامج في قناة الميادين.",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "الكتّاب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "927645",
+        "title": "توني موريسون",
+        "url": "https://www.almayadeen.net/misc/927645/توني-موريسون",
+        "keywords": [
+            "الميادين الثقافية",
+            "حكاية أديب",
+            "حكاية أديب",
+            "توني موريسون"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/5/30/3864cee9-a8c3-4915-830e-644b54be3607.jpg?v=3&width=1000",
+        "video_duration": "152",
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2019-01-21T15:17:00+02:00",
+        "last_updated": "2020-06-03T11:08:56+03:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "حلقات أونلاين"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "برنامج أونلاين "
+            },
+            {
+                "key": "class4",
+                "mapping": "program",
+                "value": "حكاية أديب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "931740",
+        "title": "نجيب محفوظ",
+        "url": "https://www.almayadeen.net/misc/931740/نجيب-محفوظ",
+        "keywords": [
+            "الميادين الثقافية",
+            "نجيب محفوظ",
+            "حكاية أديب",
+            "حكاية أديب"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/6/1/04784ac6-5171-41a3-b8f8-d7197fd4e4c4.png?width=1000",
+        "video_duration": "138",
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2019-01-28T13:54:00+02:00",
+        "last_updated": "2020-06-24T15:16:18+03:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "حلقات أونلاين"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "برنامج أونلاين "
+            },
+            {
+                "key": "class4",
+                "mapping": "program",
+                "value": "حكاية أديب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "927633",
+        "title": "فيودور دوستويفسكي",
+        "url": "https://www.almayadeen.net/misc/927633/فيودور-دوستويفسكي",
+        "keywords": [
+            "الميادين الثقافية",
+            "حكاية أديب",
+            "حكاية أديب",
+            "فيودور دوستويفسكي"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/6/1/e84de8e9-7edc-4ee8-9f6f-c5b10e06311d.png?width=1000",
+        "video_duration": "136",
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2019-01-14T15:14:00+02:00",
+        "last_updated": "2020-06-24T15:18:19+03:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "حلقات أونلاين"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "برنامج أونلاين "
+            },
+            {
+                "key": "class4",
+                "mapping": "program",
+                "value": "حكاية أديب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": null,
+        "postid": null,
+        "title": null,
+        "url": null,
+        "keywords": [
+            ""
+        ],
+        "thumbnail": null,
+        "video_duration": null,
+        "word_count": null,
+        "lang": null,
+        "published_time": null,
+        "last_updated": null,
+        "description": null,
+        "author": null,
+        "classes": [],
+        "html": "",
+        "lite_url": null
+    },
+    {
+        "type": "article",
+        "postid": "926866",
+        "title": "نيقولاي غوغول",
+        "url": "https://www.almayadeen.net/misc/926866/نيقولاي-غولول",
+        "keywords": [
+            "الميادين الثقافية",
+            "حكاية أديب",
+            "حكاية أديب",
+            "نيقولاي غوغول"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2019/1/7/890b0f17-2a3f-4c03-a417-1dd81f7afeaf.jpg?v=2&width=1000",
+        "video_duration": "183",
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2019-01-07T16:04:00+02:00",
+        "last_updated": "2019-12-23T19:06:59+02:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "حلقات أونلاين"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "برنامج أونلاين "
+            },
+            {
+                "key": "class4",
+                "mapping": "program",
+                "value": "حكاية أديب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "929299",
+        "title": "خفايا التكايا",
+        "url": "https://www.almayadeen.net/episodes/929299/وثائقي-الميادين_خفايا-التكايا",
+        "keywords": [
+            "تركيا",
+            "وثائقي الميادين",
+            "وثائقي الميادين",
+            "حرب",
+            "وثائقيات",
+            "الصوفية",
+            "جلال الدين الرومي",
+            "سياسي",
+            "Political",
+            "War",
+            "خفايا التكايا",
+            "Social",
+            "اجتماعي",
+            "النقشبندية",
+            "المولوية",
+            "النورسية",
+            "القادرية",
+            "الصوفية والسياسة في تركيا"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2019/1/20/361c95cb-a2ac-4d07-98f2-ffa59f1375d9.jpg?v=2&width=1000",
+        "video_duration": "2832",
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2019-01-20T21:00:00+02:00",
+        "last_updated": "2019-06-16T21:21:04+03:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "حلقات تلفزيون"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "برنامج شاشة"
+            },
+            {
+                "key": "class4",
+                "mapping": "program",
+                "value": "وثائقي الميادين"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "926907",
+        "title": "الحشيشة.. جدل التشريع",
+        "url": "https://www.almayadeen.net/episodes/926907/ميداني_الحشيشة---جدل-التشريع",
+        "keywords": [
+            "ميداني",
+            "ميداني",
+            "وثائقيات",
+            "الحشيشة.. جدل التشريع"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2021/12/3/1ca6f81a-949c-4e49-9b8d-f00c5b592deb.jpg?v=3&width=1000",
+        "video_duration": "1446",
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2019-01-07T20:30:00+02:00",
+        "last_updated": "2021-12-03T15:43:23+02:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "حلقات تلفزيون"
+            },
+            {
+                "key": "class4",
+                "mapping": "program",
+                "value": "ميداني"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "928607",
+        "title": "كابوس أميركا: تحالف الصين وروسيا",
+        "url": "https://www.almayadeen.net/press/foreignpress/928607/كابوس-أميركا--تحالف-الصين-وروسيا",
+        "keywords": [
+            "السياسة الخارجية الأميركية",
+            "سياسة ترامب الخارجية",
+            "حرب باردة جديدة"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2019/1/16/55647afa-66f1-44b8-be61-c4a32293994a.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "62",
+        "lang": "ar",
+        "published_time": "2019-01-16T19:04:00+02:00",
+        "last_updated": "2023-06-14T11:38:45+03:00",
+        "description": "إن أخطر تهديد لأميركا سيكون نشوء تحالف كبير بين الصين وروسيا. ",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "925760",
+        "title": "\"نيويورك تايمز\": قتل المسعفة رزان النجار جريمة حرب",
+        "url": "https://www.almayadeen.net/press/foreignpress/925760/-نيويورك-تايمز---قتل-المسعفة-رزان-النجار-جريمة-حرب",
+        "keywords": [
+            "جمعة الغضب",
+            "\"نيويورك تايمز\"",
+            "رزان النجار",
+            "الشهيدة رزان النجار"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2019/1/1/648e2372-9301-4e93-9bce-8f99f1c58bf4.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "171",
+        "lang": "ar",
+        "published_time": "2019-01-01T13:54:00+02:00",
+        "last_updated": "2023-06-08T13:54:24+03:00",
+        "description": "قالت \"نيويورك تايمز\" إن تحقيقها قد وجد أن الرصاصة التي قتلت رزان النجار قد أطلقها قناص إسرائيلي على حشد كان يضم مسعفين طبيين بملابس بيضاء في أرض مكشوفة على مرأى من الجميع.",
+        "author": "ديفيد م. هالبفينغر",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "ديفيد م. هالبفينغر"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "926700",
+        "title": "\"ناشيونال إنترست\": \"إسرائيل\" تجهّز غواصات \"دولفين\" بأسلحة نووية",
+        "url": "https://www.almayadeen.net/press/foreignpress/926700/-ناشيونال-إنترست---إسرائيل--تجهز-غواصات--دولفين--بأسلحة-نووي",
+        "keywords": [
+            "البرنامج النووي الإيراني",
+            "\"ناشيونال إنترست\"",
+            "التسلّح النووي الإسرائيلي",
+            "غواصات \"دولفين\""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2019/1/6/2a554760-cff9-4fe6-82c9-62831d8d386d.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "154",
+        "lang": "ar",
+        "published_time": "2019-01-06T19:13:00+02:00",
+        "last_updated": "2023-06-08T13:53:58+03:00",
+        "description": "هناك إمكانية أن التسلّح النووي الإسرائيلي يستند إلى صاروخ \"غابرييل\" المضاد للسفن، وهناك أيضاً تقارير عن أن صواريخ \"هاربون\" تم تعديلها لحمل الأسلحة النووية",
+        "author": "كايل ميزوكامي",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "كايل ميزوكامي"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    }
+]

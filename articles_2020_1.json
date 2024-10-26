@@ -1,0 +1,385 @@
+[
+    {
+        "type": "article",
+        "postid": "1372746",
+        "title": "حسن عطية",
+        "url": "https://www.almayadeen.net/authors/1372746/حسن-عطية",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/6/20/5c8cd1d4-e39a-4961-9c81-db31e4be4911.png?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "19",
+        "lang": "ar",
+        "published_time": "2020-01-08T17:32:00+02:00",
+        "last_updated": "2021-08-25T20:03:40+03:00",
+        "description": "محرر في الميادين نت",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "الكتّاب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1376729",
+        "title": "يحيى جبارين",
+        "url": "https://www.almayadeen.net/authors/1376729/يحي-جبارين",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/4/12/06192f45-81f6-4a49-8c33-28f60877e552.jpeg?v=4&width=1000",
+        "video_duration": null,
+        "word_count": "20",
+        "lang": "ar",
+        "published_time": "2020-01-28T16:26:00+02:00",
+        "last_updated": "2020-06-15T14:40:29+03:00",
+        "description": "صحافي وحقوقي فلسطيني",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "الكتّاب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1376446",
+        "title": "العالم يواجه كورونا",
+        "url": "https://www.almayadeen.net/coverage/1376446/العالم-يواجه-كورونا",
+        "keywords": [
+            "الصين",
+            "كورونا",
+            "وباء كورونا",
+            "ووهان",
+            "الالتهاب الرئوي",
+            "سارس"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/3/4/fe6ae89b-0721-4f87-811a-71e88a471223.png?v=4&width=1000",
+        "video_duration": null,
+        "word_count": "201",
+        "lang": "ar",
+        "published_time": "2020-01-27T18:04:00+02:00",
+        "last_updated": "2020-04-20T21:21:04+03:00",
+        "description": "أعلنت منظمة الصحة العالمية في 31 كانون الأول/ديسمبر 2019 تسجيل إصابات بمرض الالتهاب الرئوي (كورونا) في مدينة ووهان الصينية، ولاحقاً بدأ الفيروس باجتياح البلاد مع تسجيل حالات عدة في دول أخرى حول العالم.",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "تغطيات"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1377427",
+        "title": "أنتم أونلاين",
+        "url": "https://www.almayadeen.net/programs/1377427/أنتم-أونلاين",
+        "keywords": [
+            "وسائل التواصل الاجتماعي",
+            "أنتم أونلاين",
+            "سوشال ميديا"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/1/30/59bd8300-19d6-4ee1-989d-c7585c81f764.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2020-01-30T20:49:00+02:00",
+        "last_updated": "2021-07-12T01:27:07+03:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "برامج تلفزيون"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "برنامج شاشة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1376124",
+        "title": "كيف \"يسقط حكم المصرف\"؟",
+        "url": "https://www.almayadeen.net/videos/1376124/كيف--يسقط-حكم-المصرف",
+        "keywords": [
+            "لبنان",
+            "رياض سلامة",
+            "حاكم مصرف لبنان",
+            "مظاهرات لبنان",
+            "يسقط حكم المصرف",
+            "الاقتصاد الريعي"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/1/25/3a00c184-9707-4bef-911c-25a45f3febdb.png?width=1000",
+        "video_duration": "105",
+        "word_count": "205",
+        "lang": "ar",
+        "published_time": "2020-01-25T16:28:00+02:00",
+        "last_updated": "2022-04-07T14:09:55+03:00",
+        "description": "\"يسقط حكم المصرف\" شعارٌ يعبّر عن غضب الشارع من سياسات المصرف المركزيّ، ويحمل تعبيراً صريحاً عن رفض الطبقيّة التي تنخُر المجتمع اللبنانيّ، وتزيد من حجم الفقر وانتشاره. فكيف \"يسقط حكم المصرف\" بخطوات عمليّة؟\n",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "فيديو"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "ومضات"
+            },
+            {
+                "key": "class3",
+                "mapping": "country",
+                "value": "لبنان"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1372990",
+        "title": "محمود هنية",
+        "url": "https://www.almayadeen.net/authors/1372990/محمود-هنية",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/1/9/8af58dc6-58d4-4719-aae0-5d61ab35e511.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "13",
+        "lang": "ar",
+        "published_time": "2020-01-09T14:44:00+02:00",
+        "last_updated": "2020-04-08T20:45:46+03:00",
+        "description": "صحافي فلسطيني",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "الكتّاب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1373501",
+        "title": "البير كامو",
+        "url": "https://www.almayadeen.net/misc/1373501/البير-كامو",
+        "keywords": [
+            "قالوا",
+            "البير كامو"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2022/3/29/2c57ee4d-54de-4f7c-bede-4d9e43fc3a76.jpg?width=1000",
+        "video_duration": null,
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2020-01-11T15:38:00+02:00",
+        "last_updated": "2022-03-29T12:15:08+03:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "ثقافة وفنون"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1372100",
+        "title": "ناصر فرحات",
+        "url": "https://www.almayadeen.net/authors/1372100/د--ناصر-فرحات",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/1/7/d3dcaa02-ce9f-4742-b25b-7aac152058e0.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "123",
+        "lang": "ar",
+        "published_time": "2020-01-07T13:20:00+02:00",
+        "last_updated": "2020-03-23T21:03:57+02:00",
+        "description": "دكتوراه في علوم الأرض والجغرافيا السياسية من الجامعة اللبنانية وأستاذ الهندسة البيئية في كلية الهندسة في الجامعة الاسلامية.",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "الكتّاب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "1376271",
+        "title": "في أعقاب صفقة القرن.. محمود عباس يهدد بتفكيك السلطة الفلسطينية",
+        "url": "https://www.almayadeen.net/news/politics/1376271/في-أعقاب-صفقة-القرن---محمود-عباس-يهدد-بتفكيك-السلطة-الفلسطين",
+        "keywords": [
+            "فلسطين المحتلة",
+            "دونالد ترامب",
+            "دونالد ترامب",
+            "بنيامين نتنياهو",
+            "بنيامين نتنياهو",
+            "حماس",
+            "القدس المحتلة",
+            "صفقة القرن",
+            "صفقة القرن",
+            "محمود عباس",
+            "محمود عباس",
+            "سرقة القرن",
+            "صفقة بيع فلسطين",
+            "أبو ديس",
+            "خطة السلام الأميركية"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/1/26/56ebd8b0-20be-439e-8179-fad8951af98a.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "287",
+        "lang": "ar",
+        "published_time": "2020-01-26T17:28:00+02:00",
+        "last_updated": "2020-03-05T22:36:13+02:00",
+        "description": "الرئيس الفلسطيني يقول إن \"صفقة القرن لن تمر بدون موافقة الشعب الفلسطيني. القيادة، بدعم من الشعب، ستُفشل محاولات إنهاء القضية الفلسطينية. ونحن نحذر من العواقب الوخيمة على المنطقة كلها في حال الإعلان عن تنفيذ الخطة\". في وقت غادر نتنياهو إلى واشنطن للقاء الرئيس الأميركي لنقاش \"صفقة القرن\".",
+        "author": "الميادين نت",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "أخبار"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "سياسة"
+            },
+            {
+                "key": "class5",
+                "mapping": "coverage",
+                "value": "صفقة القرن/سرقة القرن"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "الميادين نت"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": null,
+        "postid": null,
+        "title": null,
+        "url": null,
+        "keywords": [
+            ""
+        ],
+        "thumbnail": null,
+        "video_duration": null,
+        "word_count": null,
+        "lang": null,
+        "published_time": null,
+        "last_updated": null,
+        "description": null,
+        "author": null,
+        "classes": [],
+        "html": "",
+        "lite_url": null
+    },
+    {
+        "type": "article",
+        "postid": "1373502",
+        "title": "أبو بكر - بكر",
+        "url": "https://www.almayadeen.net/misc/1373502/أبو-بكر---بكر",
+        "keywords": [
+            "الميادين الثقافية",
+            "ميادين الأسامي"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/1/11/68350b7b-5f8b-4ff1-a348-f74ac476cfb4.jpg?width=1000",
+        "video_duration": null,
+        "word_count": "93",
+        "lang": "ar",
+        "published_time": "2020-01-16T15:18:00+02:00",
+        "last_updated": "2020-02-20T16:32:09+02:00",
+        "description": "لقّب بــ «عتيق» لِعتاقة وجهه، أي لجماله، وتيمُّناً به يُسمّى المولود الذكر.. من هو أبو بكر ؟\n",
+        "author": "صالح الأشمر",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "ثقافة وفنون"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "صالح الأشمر"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    }
+]

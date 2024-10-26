@@ -1,0 +1,372 @@
+[
+    {
+        "type": null,
+        "postid": null,
+        "title": null,
+        "url": null,
+        "keywords": [
+            ""
+        ],
+        "thumbnail": null,
+        "video_duration": null,
+        "word_count": null,
+        "lang": null,
+        "published_time": null,
+        "last_updated": null,
+        "description": null,
+        "author": null,
+        "classes": [],
+        "html": "",
+        "lite_url": null
+    },
+    {
+        "type": "article",
+        "postid": "896138",
+        "title": "النّورسية",
+        "url": "https://www.almayadeen.net/episodes/896138/ميداني_النورسية",
+        "keywords": [
+            "تركيا",
+            "اردوغان",
+            "ميداني",
+            "فتح الله غولن",
+            "وثائقيات",
+            "عمر كايد",
+            "اتاتورك",
+            "النّورسية",
+            "سعيد النورسي"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2021/12/3/e5655c92-6961-481f-be69-d6b576ec7a3e.jpg?v=3&width=1000",
+        "video_duration": "1274",
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2018-08-07T20:30:00+03:00",
+        "last_updated": "2021-12-03T15:29:50+02:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "حلقات تلفزيون"
+            },
+            {
+                "key": "class4",
+                "mapping": "program",
+                "value": "ميداني"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "895169",
+        "title": "نعوم تشومسكي: التدخل الإسرائيلي في الانتخابات الأميركية يفوق أي شيء فعلته روسيا",
+        "url": "https://www.almayadeen.net/press/foreignpress/895169/نعوم-تشومسكي--التدخل-الإسرائيلي-في-الانتخابات-الأميركية-يفوق",
+        "keywords": [
+            "الاحتباس الحراري",
+            "سياسات ترامب",
+            "تغيّر المناخ",
+            "نعوم تشومسكي",
+            "التدخل الروسي في الانتخابات الأميركية",
+            "الإيباك"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/8/2/be112050-c20a-49b8-bb0b-1f8568ed6cec.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "358",
+        "lang": "ar",
+        "published_time": "2018-08-02T10:52:00+03:00",
+        "last_updated": "2019-04-27T22:33:01+03:00",
+        "description": "وسائل الإعلام تركز على قضايا هامشية إلى حد كبير. فمن بين جميع سياسات ترامب، فإن السياسة الأكثر خطورة وتدميراً، والتي تشكل في الحقيقة تهديداً وجودياً، هي سياساته بشأن تغيّر المناخ.",
+        "author": "أندرو بانكومب",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "أندرو بانكومب"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "895347",
+        "title": "خيار الحزب الثالث في أميركا",
+        "url": "https://www.almayadeen.net/press/foreignpress/895347/خيار-الحزب-الثالث-في-أميركا",
+        "keywords": [
+            "الحزب الديمقراطي الأميركي",
+            "الحزب الجمهوري الأميركي",
+            "اليسار في أميركا",
+            "ثورة اليسار في أميركا"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/8/3/13fbe90e-dd4d-4fec-8c5c-4fc6b9a224c0.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "178",
+        "lang": "ar",
+        "published_time": "2018-08-03T10:34:00+03:00",
+        "last_updated": "2019-04-27T22:32:36+03:00",
+        "description": "تحتاج السياسة الوطنية إلى قائد مخلص لإعادة توزيع السلطة في الولايات المتحدة الأميركية.   ",
+        "author": "ديفيد بروكس",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "ديفيد بروكس"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "895759",
+        "title": "إفراط إدارة ترامب في استخدام العقوبات قد يفقدها فعاليتها",
+        "url": "https://www.almayadeen.net/press/foreignpress/895759/إفراط-إدارة-ترامب-في-استخدام-العقوبات-قد-يفقدها-فعاليتها",
+        "keywords": [
+            "العقوبات الأميركية على إيران",
+            "العقوبات الأميركية",
+            "واشنطن بوست",
+            "إدارة ترامب"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/8/6/48704e98-77e6-48b6-a4a8-5b0ea61b9900.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "300",
+        "lang": "ar",
+        "published_time": "2018-08-06T10:59:00+03:00",
+        "last_updated": "2019-04-27T22:31:52+03:00",
+        "description": "أدرجت إدارة ترامب نحو ألف شخص وكيان في القائمة السوداء العام الماضي. وهذا يزيد بنحو 30% على ما تمت إضافته إلى القائمة في العام الأخير من ولاية أوباما.",
+        "author": "كارول موريلو",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "كارول موريلو"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "895936",
+        "title": "الاتحاد الأوروبي يحاول حماية شركاته العاملة في إيران من العقوبات الأميركية",
+        "url": "https://www.almayadeen.net/press/foreignpress/895936/الاتحاد-الأوروبي-يحاول-حماية-شركاته-العاملة-في-إيران-من-العق",
+        "keywords": [
+            "العقوبات الأميركية على إيران",
+            "الرئيس الأميركي دونالد ترامب",
+            "الرئيس الإيراني حسن روحاني",
+            "الحرب النفسية",
+            "الاحتجاجات في إيران",
+            "الحرب الناعمة",
+            "الوضع الاقتصادي في إيران"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/8/7/3fad5819-7c62-4cbb-bc3a-b92a543cd18f.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "308",
+        "lang": "ar",
+        "published_time": "2018-08-07T10:50:00+03:00",
+        "last_updated": "2019-04-27T22:31:26+03:00",
+        "description": "يحاول الاتحاد الأوروبي حماية الشركات الأوروبية من العقوبات. وصدرت تعليمات منه للشركات بعدم الامتثال لمطالب البيت الأبيض بوقف كل الأعمال التجارية مع إيران.",
+        "author": "سعيد كمالي دهقان",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "سعيد كمالي دهقان"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "896171",
+        "title": "قضيتا الفساد والإصلاح ستحددان نتائج انتخابات الكونغرس النصفية",
+        "url": "https://www.almayadeen.net/press/foreignpress/896171/قضيتا-الفساد-والإصلاح-ستحددان-نتائج-انتخابات-الكونغرس-النصفي",
+        "keywords": [
+            "انتخابات الكونغرس النصفية"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/8/8/cfbdc7be-91d8-4a49-82a9-e275f353fc22.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "434",
+        "lang": "ar",
+        "published_time": "2018-08-08T11:30:00+03:00",
+        "last_updated": "2019-04-27T22:31:01+03:00",
+        "description": "ديمقراطيتنا نفسها في خطر من التأثير المفرط للمال على سياساتنا، والتدخل الأجنبي غير المضبوط في انتخاباتنا، واستعداد متزايد من الجمهوريين لتحيز النظام لصالحهم من خلال الغش والقيود المفروضة على الوصول إلى صندوق الاقتراع.",
+        "author": "إي. جي. ديون جي أر",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "إي. جي. ديون جي أر"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "896866",
+        "title": "التوترات بين واشنطن وأنقرة تطيح بالليرة التركية",
+        "url": "https://www.almayadeen.net/press/foreignpress/896866/التوترات-بين-واشنطن-وأنقرة-تطيح-بالليرة-التركية",
+        "keywords": [
+            "انهيار الليرة التركية",
+            "العلاقات الأميركية التركية"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/8/11/e3a633bb-830e-43ed-9d14-7f74df2c90e7.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "282",
+        "lang": "ar",
+        "published_time": "2018-08-11T12:35:00+03:00",
+        "last_updated": "2019-04-27T22:30:23+03:00",
+        "description": " الانحدار الأكثر حدة في الليرة منذ إعادة انتخاب أردوغان، تغذيها الآن مخاوف من أنه معزول أكثر من أي وقت مضى ولا يأخذ أي نصيحة اقتصادية من أحد.",
+        "author": "كارلوتا غال - جاك إيوينغ",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "كارلوتا غال - جاك إيوينغ"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "897136",
+        "title": "رغم انتصاراته الاستراتيجية، بوتين يفشل في رفع العقوبات الغربية",
+        "url": "https://www.almayadeen.net/press/foreignpress/897136/رغم-انتصاراته-الاستراتيجية--بوتين-يفشل-في-رفع-العقوبات-الغرب",
+        "keywords": [
+            "شبه جزيرة القرم",
+            "العقوبات الأميركية على روسيا",
+            "قمة هلسنكي",
+            "العقوبات الأوروبية على روسيا"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/8/13/bf575f45-59b7-45f7-82fb-4bf1406242e1.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "392",
+        "lang": "ar",
+        "published_time": "2018-08-13T12:01:00+03:00",
+        "last_updated": "2019-04-27T22:29:18+03:00",
+        "description": "المشكلة الأساسية التي يواجهها الكرملين هي كيفية الرد على العقوبات الأميركية. لقد نجت روسيا من الآثار المترتبة على العقوبات السابقة، ولديها نموذج دول مثل إيران، التي نجت من مثل هذه الإجراءات لعقود.",
+        "author": "نيل ماكفاركوار",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "نيل ماكفاركوار"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "899446",
+        "title": "هل يدبّر مساعدو أوباما مؤامرة ضد إدارة ترامب؟",
+        "url": "https://www.almayadeen.net/press/foreignpress/899446/هل-يدبر-مساعدو-أوباما-مؤامرة-ضد-إدارة-ترامب",
+        "keywords": [
+            "الاتفاق النووي الإيراني الغربي",
+            "إدارة ترامب",
+            "نظرية المؤامرة",
+            "شركة بلاك كيوب"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/8/26/2ca824ec-df62-44e0-adef-3e192d5b15ca.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "270",
+        "lang": "ar",
+        "published_time": "2018-08-26T13:17:00+03:00",
+        "last_updated": "2019-04-27T22:28:01+03:00",
+        "description": "اتهمت مذكرة صادرة في عام 2017، التي تحمل عنوان \"غرفة الصدى\"، مسؤولين سابقين في إدارة أوباما بتقويض الإدارة القادمة للرئيس دونالد ترامب.",
+        "author": "آدم إنتوس - رونان فارو",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "آدم إنتوس - رونان فارو"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "899597",
+        "title": "أيها الجمهوريون، أنقذوا حزبكم بعزل ترامب",
+        "url": "https://www.almayadeen.net/press/foreignpress/899597/أيها-الجمهوريون--أنقذوا-حزبكم-بعزل-ترامب",
+        "keywords": [
+            "الحزب الجمهوري الأميركي",
+            "الحزب الجمهوري",
+            "عزل ترامب",
+            "مايكل كوهين"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2018/8/27/96fe9dfd-bd92-4877-ab08-93b58e7c8143.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "158",
+        "lang": "ar",
+        "published_time": "2018-08-27T11:32:00+03:00",
+        "last_updated": "2019-04-27T22:27:35+03:00",
+        "description": "يقوم ترامب بانتهاك المبادئ الإرشادية للحزب الجمهوري وهو يقوم بتدمير أسس بلدنا. ",
+        "author": "توم ستير",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "صحافة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "توم ستير"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "type": "article",
+        "postid": "927646",
+        "title": "ليف تولستوي",
+        "url": "https://www.almayadeen.net/misc/927646/ليو-تولستوي",
+        "keywords": [
+            "الميادين الثقافية",
+            "حكاية أديب",
+            "حكاية أديب",
+            "ليو تولستوي"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2020/6/1/3c81eb32-2c5c-48a1-b8b4-e2cae504e839.png?width=1000",
+        "video_duration": "166",
+        "word_count": "131",
+        "lang": "ar",
+        "published_time": "2019-02-04T12:52:00+02:00",
+        "last_updated": "2020-07-13T17:05:30+03:00",
+        "description": "أصبح في أواخر عمره أشبه بزعيم أخلاقي وديني، وانتهت حياته خلال رحلة للحج تخلى فيها عن كل متاع الدنيا.. تعالوا لنتعرف إلى ليف تولستوي",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "حلقات أونلاين"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "برنامج أونلاين "
+            },
+            {
+                "key": "class4",
+                "mapping": "program",
+                "value": "حكاية أديب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "935375",
+        "title": "وزير خارجية البحرين: مواجهة إيران أهم من فلسطين.. ونظيره الإماراتي يبرر اعتداءات إسرائيل على سوريا",
+        "url": "https://www.almayadeen.net/news/politics/935375/وزير-الخارجية-البحريني--سنقوم-في-نهاية-المطاف-بإنشاء-علاقات",
+        "keywords": [
+            "إسرائيل",
+            "التطبيع مع إسرائيل",
+            "دول الخليج",
+            "مؤتمر وارسو المناهض لإيران"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2019/2/15/417f96e2-f3a8-4313-9a17-3848c5441e01.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "233",
+        "lang": "ar",
+        "published_time": "2019-02-15T08:23:00+02:00",
+        "last_updated": "2020-05-07T16:20:13+03:00",
+        "description": "وزير الخارجية البحريني يؤكد أن بلاده ستقوم في نهاية المطاف بإنشاء علاقات دبلوماسية مع \"إسرائيل\"، ونظيره الإماراتي يبرر الاعتداءات الإسرائيلية على سوريا. ووسائل إعلام إسرائيلية تعتبر أن مؤتمر وارسو يمهد لتطبيع خليجي أكبر مع \"إسرائيل\".",
+        "author": "الميادين نت",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "أخبار"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "سياسة"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "الميادين نت"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "934067",
+        "title": "المشهديّة",
+        "url": "https://www.almayadeen.net/programs/934067/المشهدية",
+        "keywords": [
+            "المشهدية",
+            "مواقع تواصل اجتماعي"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2019/2/20/0fdb7b97-67bc-4df5-b9ed-10e5c1d0a39e.jpg?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "256",
+        "lang": "ar",
+        "published_time": "2019-02-08T12:49:00+02:00",
+        "last_updated": "2022-09-12T20:51:36+03:00",
+        "description": "كحياتنا المؤلفة من مجموعة مشاهد، هكذا هي \"المشهديّة\"! لوحة ملوّنة لكل ما يمرّ في يومنا من أخبارٍ ومواقف، مشاعر وانفعالات، خيبات وانتصارات!\n\"المشهدية\"، برنامج يومي إخباري منوّع تبثه الميادين من الإثنين إلى الجمعة، في تمام الساعة 8 مساءً بتوقيت القدس الشريف.",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "برامج تلفزيون"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": null,
+        "postid": null,
+        "title": null,
+        "url": null,
+        "keywords": [
+            ""
+        ],
+        "thumbnail": null,
+        "video_duration": null,
+        "word_count": null,
+        "lang": null,
+        "published_time": null,
+        "last_updated": null,
+        "description": null,
+        "author": null,
+        "classes": [],
+        "html": "",
+        "lite_url": null
+    },
+    {
+        "type": "article",
+        "postid": "933079",
+        "title": "ظل الجليل - الجزء الاول",
+        "url": "https://www.almayadeen.net/episodes/933079/وثائقي-الميادين_ظل-الجليل---الجزء-الاول",
+        "keywords": [
+            "وثائقي الميادين",
+            "وثائقي الميادين",
+            "حرب",
+            "وثائقيات",
+            "سياسي",
+            "Political",
+            "War",
+            "Social",
+            "ظل الجليل",
+            "اجتماعي"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2019/2/3/2d29451e-0815-446b-b014-b38bf66c3eec.jpg?v=2&width=1000",
+        "video_duration": "2790",
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2019-02-03T21:00:00+02:00",
+        "last_updated": "2020-03-08T23:09:13+02:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "حلقات تلفزيون"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "برنامج شاشة"
+            },
+            {
+                "key": "class4",
+                "mapping": "program",
+                "value": "وثائقي الميادين"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "934447",
+        "title": "ظل الجليل - الجزء الثاني",
+        "url": "https://www.almayadeen.net/episodes/934447/وثائقي-الميادين_ظل-الجليل---الجزء-الثاني",
+        "keywords": [
+            "وثائقي الميادين",
+            "حرب",
+            "وثائقيات",
+            "سياسي",
+            "Political",
+            "War",
+            "Social",
+            "ظل الجليل",
+            "اجتماعي"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2019/2/11/1744b7e6-4b43-4a81-985e-f46b54ae04db.jpg?v=2&width=1000",
+        "video_duration": null,
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2019-02-10T21:00:00+02:00",
+        "last_updated": "2020-03-08T22:00:00+02:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "حلقات تلفزيون"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "برنامج شاشة"
+            },
+            {
+                "key": "class4",
+                "mapping": "program",
+                "value": "وثائقي الميادين"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": null,
+        "postid": null,
+        "title": null,
+        "url": null,
+        "keywords": [
+            ""
+        ],
+        "thumbnail": null,
+        "video_duration": null,
+        "word_count": null,
+        "lang": null,
+        "published_time": null,
+        "last_updated": null,
+        "description": null,
+        "author": null,
+        "classes": [],
+        "html": "",
+        "lite_url": null
+    },
+    {
+        "type": "article",
+        "postid": "937203",
+        "title": "فيديادر نايبول",
+        "url": "https://www.almayadeen.net/misc/937203/فيديادر-نايبول",
+        "keywords": [
+            "الميادين الثقافية",
+            "حكاية أديب",
+            "حكاية أديب",
+            "فيديادر نايبول"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2019/2/24/9d4b6512-549f-4a17-812b-43ac23503fe3.jpg?v=3&width=1000",
+        "video_duration": "197",
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2019-02-25T11:12:00+02:00",
+        "last_updated": "2019-12-23T19:08:22+02:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "حلقات أونلاين"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "برنامج أونلاين "
+            },
+            {
+                "key": "class4",
+                "mapping": "program",
+                "value": "حكاية أديب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "929391",
+        "title": "كازو ايشيجورو",
+        "url": "https://www.almayadeen.net/misc/929391/كازو-ايشيجورو",
+        "keywords": [
+            "الميادين الثقافية",
+            "حكاية أديب",
+            "حكاية أديب",
+            "كازو ايشيجورو"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2019/1/21/9b946abe-b9c8-49f2-885c-de12ad39c03e.jpg?v=3&width=1000",
+        "video_duration": "208",
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2019-02-11T14:46:00+02:00",
+        "last_updated": "2019-12-23T19:07:58+02:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "حلقات أونلاين"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "برنامج أونلاين "
+            },
+            {
+                "key": "class4",
+                "mapping": "program",
+                "value": "حكاية أديب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "927652",
+        "title": "أنطون تشيخوف",
+        "url": "https://www.almayadeen.net/misc/927652/أنطوف-تشيخوف",
+        "keywords": [
+            "الميادين الثقافية",
+            "حكاية أديب",
+            "حكاية أديب",
+            "أنطون تشيخوف"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2019/1/11/81a46781-3c22-4053-863c-ccca8d7ec429.jpg?v=2&width=1000",
+        "video_duration": "172",
+        "word_count": "0",
+        "lang": "ar",
+        "published_time": "2019-02-17T02:46:00+02:00",
+        "last_updated": "2019-12-23T19:07:47+02:00",
+        "description": "",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "حلقات أونلاين"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "برنامج أونلاين "
+            },
+            {
+                "key": "class4",
+                "mapping": "program",
+                "value": "حكاية أديب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "935610",
+        "title": "حصن العصاة",
+        "url": "https://www.almayadeen.net/episodes/935610/ما-بعد-العرض---منتدى-الوثائقيات_ما-بعد-العرض--حصن-العصاة",
+        "keywords": [
+            "وثائقي الميادين",
+            "ما بعد العرض",
+            "ما بعد العرض",
+            "وثائقيات",
+            "موفق محادين",
+            "سالم الفلاحات"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2019/2/16/e05a254c-5df7-40f4-896f-42e0e0dd994a.jpg?v=3&width=1000",
+        "video_duration": "2896",
+        "word_count": "898",
+        "lang": "ar",
+        "published_time": "2019-02-15T23:00:00+02:00",
+        "last_updated": "2019-12-13T18:11:38+02:00",
+        "description": "نناقش وثائقيّ الميادين \"حصن العصاة. مدينة الكرك في الجنوب الأردنيّ، حيث العراقة الممتدّة لتاريخ طويل لا يزال حاضرًا ومحفورًا في الذاكرة. تاريخ يتجاوز بدايات المنطقة الى العالم. ولعل اكثر ما يدلّ على ذلك مسلّة حجر مؤاب، المنقوش باللغة الآرامية والموجود حالياً في متحف اللوفر، حيث ترفض الحكومة الفرنسية تسليمه بحسب ما كشف عنه الوثائقيّ الذي أبرز ايضاً كيف تحوّلت المدينة الى أول تجسيد قوميّ عربيّ في التاريخ . الغنى كلمة تختصر الكثير عن الكرك، في التاريخ والحضارة والعراقة والموقع الجيوسياسيّ وفي أهلها وأصالتهم وعمق انتمائهم العروبيّ والتحامهم به في الوجّدان والميدان ضد الغازي. وعن المحتل في سوريا و العراق و لبنان وفي فلسطين المحتلّة بالتأكيد.وفي نقاش حصن العصاة: الكرك بين الأمس واليوم، أهداف محاولات اختراق التنظيمات المتشدّدة لها. الأردن المربّع الامنيّ لشبه الجزيرة العربية والبحر الأحمر.ما تأثير ذلك على علاقات عمّان؟ صفقة القرن وتأثير موقع الأردن بين الجغرافية والسياسة ، إفشالاً أو تمريرًا.",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "حلقات تلفزيون"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "برنامج شاشة"
+            },
+            {
+                "key": "class4",
+                "mapping": "program",
+                "value": "ما بعد العرض - منتدى الوثائقيات"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    }
+]

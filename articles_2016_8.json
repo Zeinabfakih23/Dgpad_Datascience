@@ -1,0 +1,353 @@
+[
+    {
+        "type": null,
+        "postid": null,
+        "title": null,
+        "url": null,
+        "keywords": [
+            ""
+        ],
+        "thumbnail": null,
+        "video_duration": null,
+        "word_count": null,
+        "lang": null,
+        "published_time": null,
+        "last_updated": null,
+        "description": null,
+        "author": null,
+        "classes": [],
+        "html": "",
+        "lite_url": null
+    },
+    {
+        "type": "article",
+        "postid": "803420",
+        "title": "\"زراعة القوقعة\" أمل للصمّ في استعادة السمع",
+        "url": "https://www.almayadeen.net/tv-reports/803420/-زراعة-القوقعة--أمل-للصم-في-استعادة-السمع",
+        "keywords": [
+            "الصم"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2016/8/11/c3c5ef9c-9063-4147-8ce2-c753f5b6ea71.jpg?v=4&width=1000",
+        "video_duration": "132",
+        "word_count": "101",
+        "lang": "ar",
+        "published_time": "2016-08-11T21:30:00+03:00",
+        "last_updated": "2020-03-19T16:49:53+02:00",
+        "description": "غرسة إلكترونية تعيد السمع إلى الشخص الأصم، هذه الغرسة تعرف بزراعة القوقعة، تقرير من بيروت يلقي الضوء.",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "تقارير إخبارية"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": null,
+        "postid": null,
+        "title": null,
+        "url": null,
+        "keywords": [
+            ""
+        ],
+        "thumbnail": null,
+        "video_duration": null,
+        "word_count": null,
+        "lang": null,
+        "published_time": null,
+        "last_updated": null,
+        "description": null,
+        "author": null,
+        "classes": [],
+        "html": "",
+        "lite_url": null
+    },
+    {
+        "type": "article",
+        "postid": "804298",
+        "title": "عن الموقف الروسي الجديد في اليمن",
+        "url": "https://www.almayadeen.net/analysis/804298/عن-الموقف-الروسي-الجديد-في-اليمن",
+        "keywords": [
+            "روسيا",
+            "اليمن",
+            "أنصار الله",
+            "فيتالي تشوركين"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2016/8/4/20e82022-9076-431d-a562-8e7f1141bd1b.jpg?v=4&width=1000",
+        "video_duration": null,
+        "word_count": "845",
+        "lang": "ar",
+        "published_time": "2016-08-04T20:30:00+03:00",
+        "last_updated": "2019-04-29T14:53:55+03:00",
+        "description": "يصب الموقف الروسي الجديد في سياق وقف الحرب اليمنية وتداعياتها الإقليمية، ومحاولة دعم حل سياسي يرضي الطرفين في اليمن ولا يشكّل هزيمة لطرف، على قاعدة \"لا غالب ولا مغلوب\". ",
+        "author": "هيثم مزاحم",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "مقالات"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "هيثم مزاحم"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "802824",
+        "title": "\"غليان آسيا: بحر الصين الجنوبي ونهاية استقرار المحيط الهادئ\"",
+        "url": "https://www.almayadeen.net/books/802824/-غليان-آسيا--بحر-الصين-الجنوبي-ونهاية-استقرار-المحيط-الهادئ-",
+        "keywords": [
+            "الصين",
+            "بحر الصين الجنوبي"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2016/8/16/ee6dca95-a5c9-4d62-9a01-0ddaab511b28.jpg?v=4&width=1000",
+        "video_duration": null,
+        "word_count": "181",
+        "lang": "ar",
+        "published_time": "2016-08-16T20:06:00+03:00",
+        "last_updated": "2023-06-14T11:24:58+03:00",
+        "description": "يتمحور موضوع الكتاب حول منطقة بحر الصين الجنوبي وأهميتها. فهي مساحة بحرية واسعة تشمل 1.35 مليون متر مربع من المحيط المفتوح وتحوي ممرات مائية واحتياطات هائلة من النفط والغاز الطبيعي.",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "ثقافة وفنون"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "804192",
+        "title": "\"سياسات الإمبراطورية: الولايات المتحدة، إسرائيل، والشرق الأوسط\"",
+        "url": "https://www.almayadeen.net/books/804192/-سياسات-الإمبراطورية--الولايات-المتحدة--إسرائيل--والشرق-الأو",
+        "keywords": [
+            "إسرائيل"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2016/8/5/dee7e0b2-7008-4d9a-ad0a-bfc3b1cb01fa.jpg?v=4&width=1000",
+        "video_duration": null,
+        "word_count": "204",
+        "lang": "ar",
+        "published_time": "2016-08-05T18:02:00+03:00",
+        "last_updated": "2023-06-08T14:05:51+03:00",
+        "description": "تبرز هذه الدراسة كيف أن المؤسسات الأميركية لبناء إمبراطورية قد تدهورت واضطرت الرئاسة الإمبريالية لتعديل نهجها، إذ رجحت المفاوضات الدبلوماسية على التدخلات العسكرية الجديدة، وتحديداً في قضايا سوريا وإيران  ",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "ثقافة وفنون"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "804206",
+        "title": "من هو بديع الزمان النورسي .. مرشد فتح الله غولن",
+        "url": "https://www.almayadeen.net/books/804206/من-هو-بديع-الزمان-النورسي----مرشد-فتح-الله-غولن",
+        "keywords": [
+            "تركيا",
+            "فتح الله غولن"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/image/2016/8/2/18f344bb-1469-4cf2-94ae-41ca2f3640a0.jpg?v=6&width=1000",
+        "video_duration": null,
+        "word_count": "377",
+        "lang": "ar",
+        "published_time": "2016-08-05T16:38:00+03:00",
+        "last_updated": "2023-06-14T11:25:11+03:00",
+        "description": "لا يمكننا أن نفهم أفكار الداعية الإسلامي التركي فتح الله غولن وحركته \"خدمة\" من دون العودة إلى جذوره الفكرية، فهو يعد من مريدي الشيخ الصوفي بديع الزَّمان سعيد النورسي (1876- 1960).  ويرى بعض الباحثين أنه إذا كان النورسي يعد منظّر التنوير الديني في تركيا، فإن غولن هو المهندس التنفيذي لأفكار النورسي والقائم على تطبيقها وتحقيقها على أرض الواقع. فمن هو النورسي وما هي أبرز أفكاره؟",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "ثقافة وفنون"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "488926",
+        "title": "زياد ناصر الدين",
+        "url": "https://www.almayadeen.net/authors/488926/زياد-ناصر-الدين",
+        "keywords": [
+            ""
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/media/image/2022/8/26/3cf6ca7b-377c-4a34-a339-d637a4c15118.png?v=3&width=1000",
+        "video_duration": null,
+        "word_count": "18",
+        "lang": "ar",
+        "published_time": "2016-08-16T14:04:00+03:00",
+        "last_updated": "2022-08-26T16:29:30+03:00",
+        "description": "كاتب وباحث اقتصادي",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "الكتّاب"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "547106",
+        "title": "ملحمة حلب....الكبرى !",
+        "url": "https://www.almayadeen.net/videos/ماذا_ولماذا/547106/ملحمة-حلب----الكبرى--",
+        "keywords": [
+            "حلب"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/thumbnail/2016/8/4/8648b127-452a-4f8b-a73c-0531487eef82.jpg?v=4&width=1000",
+        "video_duration": "52",
+        "word_count": "94",
+        "lang": "ar",
+        "published_time": "2016-08-04T19:59:37+03:00",
+        "last_updated": "2018-09-24T14:33:00+03:00",
+        "description": "الفصائل المسلحة في حلب تبدأ ما يسمى بـ\"ملحمة حلب الكبرى\" والتي لم تحقق أي من أهدافها الرئيسية.",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "فيديو"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "الميادين Go"
+            },
+            {
+                "key": "class3",
+                "mapping": "country",
+                "value": "سوريا"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "547200",
+        "title": "من هو أحمد سعدات؟",
+        "url": "https://www.almayadeen.net/videos/ماذا_ولماذا/547200/من-هو-أحمد-سعدات-",
+        "keywords": [
+            "اضراب الأسرى عن الطعام",
+            "أحمد سعدات",
+            "الأسير بلال كايد"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/thumbnail/2016/8/1/9c5eef70-a05e-4e6e-9191-6c452ae71a45.jpg?v=4&width=1000",
+        "video_duration": "75",
+        "word_count": "92",
+        "lang": "ar",
+        "published_time": "2016-08-02T01:08:40+03:00",
+        "last_updated": "2018-09-24T14:33:00+03:00",
+        "description": "الأمين العام الحالي للجبهة الشعبية لتحرير فلسطين يضرب عن الطعام تضامناً مع الأسير بلال كايد.",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "فيديو"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "الميادين Go"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    },
+    {
+        "type": "article",
+        "postid": "549259",
+        "title": "نظرة فـابتسامة فـحبس !",
+        "url": "https://www.almayadeen.net/videos/ماذا_ولماذا/549259/نظرة-فـابتسامة-فـحبس--",
+        "keywords": [
+            "جنا سرحال"
+        ],
+        "thumbnail": "https://alpha-ar-media.almayadeen.net/archive/thumbnail/2016/8/8/e42bdb12-ffe0-44e3-9ef2-db94416a41fa.jpg?v=4&width=1000",
+        "video_duration": "56",
+        "word_count": "158",
+        "lang": "ar",
+        "published_time": "2016-08-08T14:13:43+03:00",
+        "last_updated": "2018-09-24T14:33:00+03:00",
+        "description": "قانون جديد في تونس يمنع التحرش، ويعاقب بالحبس لمدة سنة كل من يعمد إلى مضايقة إمرأة في مكان عام. كيف تعامل رواد مواقع التواصل مع القانون الجديد؟ وبماذا علّقوا؟",
+        "author": "شبكة الميادين",
+        "classes": [
+            {
+                "key": "class1",
+                "mapping": "posttype",
+                "value": "فيديو"
+            },
+            {
+                "key": "class2",
+                "mapping": "category",
+                "value": "الميادين Go"
+            },
+            {
+                "key": "class3",
+                "mapping": "country",
+                "value": "تونس"
+            },
+            {
+                "key": "class6",
+                "mapping": "author",
+                "value": "شبكة الميادين"
+            }
+        ],
+        "html": "",
+        "lite_url": ""
+    }
+]
